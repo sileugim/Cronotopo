@@ -23,6 +23,10 @@
  </Element>
  <Element Name="Boca" ID="13" Folder="Boca">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
  </Element>
  <Element Name="Nariz" ID="14" Folder="Nariz">
   <Drawing Key="" Name="1" Version="1"/>
@@ -79,6 +83,24 @@
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="ManoIz" ID="32" Folder="ManoIz.32">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Muslo_iz" ID="34" Folder="Muslo_iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pierna_iz" ID="35" Folder="Pierna_iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Zapato" ID="36" Folder="Zapato">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Muslo_iz" ID="37" Folder="Muslo_iz.37">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pierna_iz" ID="38" Folder="Pierna_iz.38">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Zapato" ID="39" Folder="Zapato.39">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
 </SceneVersion>
