@@ -60,8 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\MovieManagger.cs" />
-    <Compile Include="Assets\Scripts\video.cs" />
+    <Compile Include="Assets\Scripts\eleccion.cs" />
+    <Compile Include="Assets\Scripts\iniciador.cs" />
+    <Compile Include="Assets\Scripts\next.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Miguel/Documents/GitHub/Cronotopo/TMT/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
