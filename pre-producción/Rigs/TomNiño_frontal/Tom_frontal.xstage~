@@ -95,11 +95,6 @@
     <dwg name="1"/>
    </drawings>
   </element>
-  <element id="24" elementName="Camisa_trasera" elementFolder="Camisa_trasera" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
-   <drawings>
-    <dwg name="1"/>
-   </drawings>
-  </element>
   <element id="25" elementName="Pantalon" elementFolder="Pantalon" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -326,7 +321,7 @@
        <pt val="0.0083333133285359504,-0.08333313328535219,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659CFF" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-099590943466763C" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -479,7 +474,7 @@
        <pt val="-2.6266603611543582,0.26666602651313198,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D01" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-099590943466763E" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -531,7 +526,7 @@
        <pt val="-2.8333265317020362,0.026666602651313376,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D03" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667640" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -577,7 +572,7 @@
        <pt val="-2.713326819771126,-0.088888675504376735,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D05" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667642" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -623,7 +618,7 @@
        <pt val="-4.0866568563137609,0.30222149671488197,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D07" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667644" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -724,7 +719,7 @@
        <pt val="-7.7778979916184534,-0.20777727899148069,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D09" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667646" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -874,10 +869,10 @@
      <infoVelocity width="100"/>
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points>
-       <pt val="-0.077916479156145524,0.18539262455981562,0" lockedInTime="1"/>
+       <pt val="-0.023751182294300646,0.33070057106768785,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D0B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667648" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -889,14 +884,14 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="1" y="1"/>
+      <pt constSeg="false" x="1" yLocal="0.9427940279487409" y="0.9427940279487409"/>
      </points>
     </column>
     <column type="3" name="ATV-09935E6220A409B9" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="1" y="1"/>
+      <pt constSeg="false" x="1" yLocal="0.99516412076463623" y="0.99516412076463623"/>
      </points>
     </column>
     <column type="3" name="ATV-09935E6220A409BA" displayOrder="0" width="100" anonymous="true">
@@ -920,10 +915,10 @@
      <infoVelocity width="100"/>
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points>
-       <pt val="0.045832722244185858,-0.087774338764865498,0.000274658203125" lockedInTime="1"/>
+       <pt val="-0.0041660133205935479,-0.36554509190253182,0.000274658203125" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D0D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-099590943466764A" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -978,7 +973,7 @@
        <pt val="-4.7395718849793829,-0.30012489858922003,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D0F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-099590943466764C" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1067,14 +1062,14 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1" yLocal="0.19333508174112346" y="0.19333508174112346"/>
      </points>
     </column>
     <column type="3" name="ATV-0993C25B983105EE" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="0.30555608905586151" y="0.30555608905586151"/>
+      <pt constSeg="false" x="1" yLocal="0.21255581041618932" y="0.21255581041618932"/>
      </points>
     </column>
     <column type="3" name="ATV-0993C25B983105EF" displayOrder="0" width="100" anonymous="true">
@@ -1095,7 +1090,7 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="1" y="1"/>
+      <pt constSeg="false" x="1" yLocal="1.0546372581321879" y="1.0546372581321879"/>
      </points>
     </column>
     <column type="3" name="ATV-0993C25B983105F2" displayOrder="0" width="100" anonymous="true">
@@ -1171,7 +1166,7 @@
        <pt val="0.013333301325656242,0.38890580545581771,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D11" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-099590943466764E" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1217,7 +1212,7 @@
        <pt val="0.013333301325656797,-0.16908948063296345,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D13" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667650" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1263,7 +1258,7 @@
        <pt val="-0.059999855965454832,0.38890580545581616,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D15" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667652" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1309,7 +1304,7 @@
        <pt val="0.026666602651313324,-0.16908948063296339,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D17" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667654" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1348,9 +1343,6 @@
     <column type="0" name="ATV-0993C25B9834252B" displayOrder="0" width="100" anonymous="true" id="23">
      <elementSeq exposures="1" val="1" id="23"/>
     </column>
-    <column type="0" name="ATV-0993C25B98342641" displayOrder="0" width="100" anonymous="true" id="24">
-     <elementSeq exposures="1" val="1" id="24"/>
-    </column>
     <column type="0" name="ATV-0993C25B98342D6E" displayOrder="0" width="100" anonymous="true" id="25">
      <elementSeq exposures="1" val="1" id="25"/>
     </column>
@@ -1364,7 +1356,7 @@
        <pt val="18.32912266518229,5.2888761891991045,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D19" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667656" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1394,55 +1386,6 @@
      </points>
     </column>
     <column type="3" name="ATV-0993C25B9834597D" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="0" y="0"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0993C25B983464D1" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="-18.293289418800896" y="-18.293289418800896"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0993C25B983464D2" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="-5.1510987454786825" y="-5.1510987454786825"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0993C25B983464D3" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="0" y="0"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0993C25B983464D4" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="1" y="1"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0993C25B983464D5" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="1" y="1"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0993C25B983464D6" displayOrder="0" width="100" anonymous="true">
-     <step val="1" start="1" stop="1"/>
-     <noFrames/>
-     <points version="2">
-      <pt constSeg="false" x="1" yLocal="0" y="0"/>
-     </points>
-    </column>
-    <column type="3" name="ATV-0993C25B983464D7" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
@@ -1569,7 +1512,7 @@
        <pt val="6.4508178510340874,2.6611047253958273,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D1B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0995909434667658" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1713,7 +1656,7 @@
        <pt val="4.7083220598038622,2.8888819543061937,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0995909434659D1D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-099590943466765A" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1856,6 +1799,170 @@
     <column type="0" name="ATV-0993C25B9834FF63" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="32">
      <elementSeq exposures="1" val="1" id="32"/>
     </column>
+    <column type="3" name="ATV-099590943466D923" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.90148628799655794" y="0.90148628799655794"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-099590943466D924" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.49871416131083712" y="0.49871416131083712"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-099590943466D925" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-099590943466D926" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-099590943466DA63" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="-0.031249209727987171,-0.16380168515433083,0" lockedInTime="1"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-099590943466DA64" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-099590943466DC8C" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.90107946002984507" y="0.90107946002984507"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-099590943466DC8D" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.49038424758446675" y="0.49038424758446675"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-099590943466DC8E" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-099590943466DC8F" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-099590943466DD8C" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="-0.023081426547501852,-0.18762128240281978,0" lockedInTime="1"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-099590943466DD8D" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-09959094346815E8" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09959094346815E9" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1.187950691065276" y="1.187950691065276"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09959094346815EA" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09959094346815EB" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-09959094346816F8" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="-0.11999696535547155,-0.025362841572282024,0" lockedInTime="1"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-09959094346816F9" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="2" name="ATV-09959094346A1287" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="-0.049999879971212358,0.9333310927959646,0" lockedInTime="1"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-09959094346A1288" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-09959094346A1289" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09959094346A128A" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09959094346A128B" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09959094346A128C" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -1865,7 +1972,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="24,459,73" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="24,459,72" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1884,13 +1991,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="74,509,74" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="74,509,73" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-26,509,75" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-26,509,74" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2048,7 +2155,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Compo_principal" pos="160,-944,28" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Compo_principal" pos="160,-944,27" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2067,7 +2174,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Compo_Cabeza" pos="163,-2713,71" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Compo_Cabeza" pos="163,-2713,70" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2086,7 +2193,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Cabeza" pos="306,-4096,41" publishUnderTab="Cabeza">
+     <module type="READ" name="Cabeza" pos="306,-4096,40" publishUnderTab="Cabeza">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2118,8 +2225,8 @@
        <angle val="0" defaultValue="0" col="ATV-09935E6220A31903"/>
        <skew val="0" defaultValue="0" col="ATV-09935E6220A31904"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.39999675095683601" defaultValue="0"/>
+        <y val="9.8916780160688678" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
@@ -2197,7 +2304,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Compo_OjoIz" pos="391,-2713,64" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Compo_OjoIz" pos="391,-2713,63" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2216,7 +2323,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="OjoIz" pos="666,-2885,65" publishUnderTab="Ojo">
+     <module type="READ" name="OjoIz" pos="666,-2885,64" publishUnderTab="Ojo">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2327,7 +2434,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Como_corteIz" pos="509,-2885,67" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Como_corteIz" pos="509,-2885,66" publishUnderTab="Composite_1">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2409,7 +2516,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="OjoIz-P" pos="747,-2992,60" publishUnderTab="Ojo-P">
+     <module type="PEG" name="OjoIz-P" pos="747,-2992,59" publishUnderTab="Ojo-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2471,7 +2578,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art" pos="553,-2807,66" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art" pos="553,-2807,65" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2483,7 +2590,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art" pos="766,-2807,70" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art" pos="766,-2807,69" publishUnderTab="Line-Art">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2495,7 +2602,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter" pos="673,-2816,68" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter" pos="673,-2816,67" publishUnderTab="Cutter">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2504,7 +2611,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="PupliaIz" pos="539,-3045,43" publishUnderTab="PupliaIz">
+     <module type="READ" name="PupliaIz" pos="539,-3045,42" publishUnderTab="PupliaIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2615,7 +2722,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="PupliaIz-P" pos="565,-3082,46" publishUnderTab="PupliaIz-P">
+     <module type="PEG" name="PupliaIz-P" pos="565,-3082,45" publishUnderTab="PupliaIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2678,7 +2785,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="cejasIz" pos="529,-3333,44" publishUnderTab="cejasIz">
+     <module type="READ" name="cejasIz" pos="529,-3333,43" publishUnderTab="cejasIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2789,7 +2896,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="cejasIz-P" pos="553,-3413,61" publishUnderTab="cejasIz-P">
+     <module type="PEG" name="cejasIz-P" pos="553,-3413,60" publishUnderTab="cejasIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2800,6 +2907,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="false"/>
+        <attr3dpath col="ATV-099590943466DA63"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
@@ -2808,18 +2916,18 @@
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-099590943466D923"/>
+        <y val="1" defaultValue="1" col="ATV-099590943466D924"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-099590943466D925"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="0" defaultValue="0" col="ATV-099590943466D925"/>
+       <skew val="0" defaultValue="0" col="ATV-099590943466D926"/>
        <pivot>
         <x val="3.7816575332310247" defaultValue="0"/>
         <y val="9.1244224064142294" defaultValue="0"/>
@@ -2851,7 +2959,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Parapado_SupIz" pos="559,-3129,38" publishUnderTab="Parapado_SupIz">
+     <module type="READ" name="Parapado_SupIz" pos="559,-3129,37" publishUnderTab="Parapado_SupIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2962,7 +3070,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Parapado_SupIz-P" pos="585,-3184,37" publishUnderTab="Parapado_SupIz-P">
+     <module type="PEG" name="Parapado_SupIz-P" pos="585,-3184,36" publishUnderTab="Parapado_SupIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3025,7 +3133,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Parpado_InfIz" pos="513,-2979,63" publishUnderTab="Parpado_InfIz">
+     <module type="READ" name="Parpado_InfIz" pos="513,-2979,62" publishUnderTab="Parpado_InfIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3136,7 +3244,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Parpado_InfIz-P" pos="528,-3004,36" publishUnderTab="Parpado_InfIz-P">
+     <module type="PEG" name="Parpado_InfIz-P" pos="528,-3004,35" publishUnderTab="Parpado_InfIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3199,7 +3307,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-cejasIz" pos="522,-3372,62">
+     <group name="Deformation-cejasIz" pos="522,-3372,61">
       <options>
        <collapsed val="true"/>
        <subnodeCollapsed val="true"/>
@@ -3374,7 +3482,7 @@
        <link out="Bone_2" in="no-name_1"/>
       </linkedlist>
      </group>
-     <module type="PEG" name="Ojo_CompletpIz" pos="826,-3301,50" publishUnderTab="Ojo-P-P">
+     <module type="PEG" name="Ojo_CompletpIz" pos="826,-3301,49" publishUnderTab="Ojo-P-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3437,7 +3545,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Boca" pos="209,-2975,58" publishUnderTab="Boca">
+     <module type="READ" name="Boca" pos="209,-2975,57" publishUnderTab="Boca">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3548,7 +3656,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Nariz" pos="235,-3208,59" publishUnderTab="Nariz">
+     <module type="READ" name="Nariz" pos="235,-3208,58" publishUnderTab="Nariz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3659,7 +3767,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Nariz-P" pos="250,-3246,56" publishUnderTab="Nariz-P">
+     <module type="PEG" name="Nariz-P" pos="250,-3246,55" publishUnderTab="Nariz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3722,7 +3830,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Boca-P" pos="224,-3011,57" publishUnderTab="Boca-P">
+     <module type="PEG" name="Boca-P" pos="224,-3011,56" publishUnderTab="Boca-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3785,7 +3893,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Ojo_CompletpIz_1" pos="-193,-3431,51" publishUnderTab="Ojo_CompletpIz">
+     <module type="PEG" name="Ojo_CompletpIz_1" pos="-193,-3431,50" publishUnderTab="Ojo_CompletpIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3848,7 +3956,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="OjoIz-P_1" pos="-421,-3206,33" publishUnderTab="OjoIz-P">
+     <module type="PEG" name="OjoIz-P_1" pos="-421,-3206,32" publishUnderTab="OjoIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3910,7 +4018,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="cejasIz-P_1" pos="14,-3430,49" publishUnderTab="cejasIz-P">
+     <module type="PEG" name="cejasIz-P_1" pos="14,-3430,48" publishUnderTab="cejasIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -3921,6 +4029,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="false"/>
+        <attr3dpath col="ATV-099590943466DD8C"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
@@ -3929,18 +4038,18 @@
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-099590943466DC8C"/>
+        <y val="1" defaultValue="1" col="ATV-099590943466DC8D"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-099590943466DC8E"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="0" defaultValue="0" col="ATV-099590943466DC8E"/>
+       <skew val="0" defaultValue="0" col="ATV-099590943466DC8F"/>
        <pivot>
         <x val="3.7816575332310247" defaultValue="0"/>
         <y val="9.1244224064142294" defaultValue="0"/>
@@ -3972,7 +4081,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Parapado_SupIz-P_1" pos="-210,-3282,35" publishUnderTab="Parapado_SupIz-P">
+     <module type="PEG" name="Parapado_SupIz-P_1" pos="-210,-3282,34" publishUnderTab="Parapado_SupIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4035,7 +4144,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="PupliaIz-P_1" pos="-219,-3196,47" publishUnderTab="PupliaIz-P">
+     <module type="PEG" name="PupliaIz-P_1" pos="-219,-3196,46" publishUnderTab="PupliaIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4098,7 +4207,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Parpado_InfIz-P_1" pos="-256,-3118,34" publishUnderTab="Parpado_InfIz-P">
+     <module type="PEG" name="Parpado_InfIz-P_1" pos="-256,-3118,33" publishUnderTab="Parpado_InfIz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4161,7 +4270,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-cejasIz_1" pos="-17,-3389,42">
+     <group name="Deformation-cejasIz_1" pos="-17,-3389,41">
       <options>
        <collapsed val="true"/>
        <subnodeCollapsed val="true"/>
@@ -4336,7 +4445,7 @@
        <link out="Bone_2" in="no-name_1"/>
       </linkedlist>
      </group>
-     <module type="READ" name="cejasIz_1" pos="-10,-3350,69" publishUnderTab="cejasIz">
+     <module type="READ" name="cejasIz_1" pos="-10,-3350,68" publishUnderTab="cejasIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4447,7 +4556,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Parpado_InfIz_1" pos="-271,-3093,55" publishUnderTab="Parpado_InfIz">
+     <module type="READ" name="Parpado_InfIz_1" pos="-271,-3093,54" publishUnderTab="Parpado_InfIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4558,7 +4667,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Parapado_SupIz_1" pos="-225,-3243,72" publishUnderTab="Parapado_SupIz">
+     <module type="READ" name="Parapado_SupIz_1" pos="-225,-3243,71" publishUnderTab="Parapado_SupIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4669,7 +4778,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="PupliaIz_1" pos="-245,-3159,48" publishUnderTab="PupliaIz">
+     <module type="READ" name="PupliaIz_1" pos="-245,-3159,47" publishUnderTab="PupliaIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4780,7 +4889,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Compo_OjoIz_1" pos="-38,-2772,53" publishUnderTab="Compo_OjoIz">
+     <module type="COMPOSITE" name="Compo_OjoIz_1" pos="-38,-2772,52" publishUnderTab="Compo_OjoIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4799,7 +4908,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="OjoIz_1" pos="-118,-2999,76" publishUnderTab="OjoIz">
+     <module type="READ" name="OjoIz_1" pos="-118,-2999,75" publishUnderTab="OjoIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4910,7 +5019,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COLOR_ART" name="Colour-Art_1" pos="-231,-2921,77" publishUnderTab="Colour-Art">
+     <module type="COLOR_ART" name="Colour-Art_1" pos="-231,-2921,76" publishUnderTab="Colour-Art">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4922,7 +5031,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Como_corteIz_1" pos="-275,-2999,78" publishUnderTab="Como_corteIz">
+     <module type="COMPOSITE" name="Como_corteIz_1" pos="-275,-2999,77" publishUnderTab="Como_corteIz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4941,7 +5050,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="CUTTER" name="Cutter_1" pos="-111,-2930,54" publishUnderTab="Cutter">
+     <module type="CUTTER" name="Cutter_1" pos="-111,-2930,53" publishUnderTab="Cutter">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4950,7 +5059,7 @@
        <inverted val="true"/>
       </attrs>
      </module>
-     <module type="LINE_ART" name="Line-Art_1" pos="-18,-2921,79" publishUnderTab="Line-Art">
+     <module type="LINE_ART" name="Line-Art_1" pos="-18,-2921,78" publishUnderTab="Line-Art">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4962,7 +5071,7 @@
        <antialiasingExponent val="1" defaultValue="1"/>
       </attrs>
      </module>
-     <module type="PEG" name="Pupila-p" pos="270,-3543,45" publishUnderTab="Peg">
+     <module type="PEG" name="Pupila-p" pos="270,-3543,44" publishUnderTab="Peg">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5025,7 +5134,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Ojo-p" pos="285,-3612,52" publishUnderTab="Peg">
+     <module type="PEG" name="Ojo-p" pos="285,-3612,51" publishUnderTab="Peg">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5087,7 +5196,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Cabello" pos="239,-3831,29" publishUnderTab="Cabello">
+     <module type="READ" name="Cabello" pos="239,-3831,28" publishUnderTab="Cabello">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5198,7 +5307,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Cabello-P" pos="254,-3861,30" publishUnderTab="Cabello-P">
+     <module type="PEG" name="Cabello-P" pos="254,-3861,29" publishUnderTab="Cabello-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5261,7 +5370,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Oreja_Iz" pos="1329,-3207,40" publishUnderTab="Oreja_Iz">
+     <module type="READ" name="Oreja_Iz" pos="1329,-3207,39" publishUnderTab="Oreja_Iz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5372,7 +5481,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Oreja_Iz-P" pos="1352,-3267,31" publishUnderTab="Oreja_Iz-P">
+     <module type="PEG" name="Oreja_Iz-P" pos="1352,-3267,30" publishUnderTab="Oreja_Iz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5383,6 +5492,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="false"/>
+        <attr3dpath col="ATV-09959094346816F8"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
@@ -5391,18 +5501,18 @@
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-09959094346815E8"/>
+        <y val="1" defaultValue="1" col="ATV-09959094346815E9"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-09959094346815EA"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="0" defaultValue="0" col="ATV-09959094346815EA"/>
+       <skew val="0" defaultValue="0" col="ATV-09959094346815EB"/>
        <pivot>
         <x val="1.43749652775199" defaultValue="0"/>
         <y val="8.1666469402721678" defaultValue="0"/>
@@ -5434,7 +5544,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Oreja_De" pos="-852,-3170,39" publishUnderTab="Oreja_Iz">
+     <module type="READ" name="Oreja_De" pos="-852,-3170,38" publishUnderTab="Oreja_Iz">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5545,7 +5655,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Oreja_De-P" pos="-829,-3230,32" publishUnderTab="Oreja_Iz-P">
+     <module type="PEG" name="Oreja_De-P" pos="-829,-3230,31" publishUnderTab="Oreja_Iz-P">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -5607,7 +5717,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Compo_torso" pos="171,-1635,27" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Compo_torso" pos="171,-1635,26" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5626,7 +5736,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Camisa" pos="-23,-2040,23" publishUnderTab="Camisa">
+     <module type="READ" name="Camisa" pos="135,-2042,1" publishUnderTab="Camisa">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5737,118 +5847,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Camisa_trasera" pos="311,-2030,24" publishUnderTab="Camisa_trasera">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0" col="ATV-0993C25B983464D1"/>
-        <y val="0" defaultValue="0" col="ATV-0993C25B983464D2"/>
-        <z val="0" defaultValue="0" col="ATV-0993C25B983464D3"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1" col="ATV-0993C25B983464D4"/>
-        <y val="1" defaultValue="1" col="ATV-0993C25B983464D5"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0" col="ATV-0993C25B983464D6"/>
-       </rotation>
-       <angle val="0" defaultValue="0" col="ATV-0993C25B983464D6"/>
-       <skew val="0" defaultValue="0" col="ATV-0993C25B983464D7"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="ATV-0993C25B98342641">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="true"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-       <tileHorizontal val="false"/>
-       <tileVertical val="false"/>
-      </attrs>
-     </module>
-     <module type="COMPOSITE" name="Compo_inferior" pos="-47,-283,26" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Compo_inferior" pos="-47,-283,25" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5930,7 +5929,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Pantalon" pos="-29,-422,25" publishUnderTab="Pantalon">
+     <module type="READ" name="Pantalon" pos="-29,-422,24" publishUnderTab="Pantalon">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6052,6 +6051,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="false"/>
+        <attr3dpath col="ATV-09959094346A1287"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
@@ -6060,18 +6060,18 @@
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-09959094346A1289"/>
+        <y val="1" defaultValue="1" col="ATV-09959094346A128A"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-09959094346A128B"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
+       <angle val="0" defaultValue="0" col="ATV-09959094346A128B"/>
+       <skew val="0" defaultValue="0" col="ATV-09959094346A128C"/>
        <pivot>
         <x val="0.20833283010898435" defaultValue="0"/>
         <y val="-0.055555421362394698" defaultValue="0"/>
@@ -6628,7 +6628,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="BrazoIz-P" pos="1751,-2250,1" publishUnderTab="BrazoIz-P">
+     <module type="PEG" name="BrazoIz-P" pos="1751,-2250,2" publishUnderTab="BrazoIz-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7752,11 +7752,9 @@
      <link out="Oreja_De" in="Compo_Cabeza" inport="5"/>
      <link out="Oreja_De-P" in="Oreja_De" inport="0"/>
      <link out="Compo_torso" in="Compo_principal" inport="2"/>
-     <link out="Camisa" in="Compo_torso" inport="3"/>
-     <link out="Camisa_trasera" in="Compo_torso" inport="1"/>
+     <link out="Camisa" in="Compo_torso" inport="2"/>
      <link out="Compo_inferior" in="Compo_principal" inport="1"/>
      <link out="Camisa-P" in="Camisa" inport="0"/>
-     <link out="Camisa-P" in="Camisa_trasera" inport="0"/>
      <link out="Pantalon" in="Compo_inferior"/>
      <link out="Pantalon-P" in="Pantalon" inport="0"/>
      <link out="Cuello" in="Compo_torso" inport="0"/>
@@ -7779,7 +7777,7 @@
      <link out="ManoIz_1" in="Compo_BrazoIz_1" inport="2"/>
      <link out="BrazoIz_1" in="AnteBrazoIz_1" inport="0"/>
      <link out="BrazoIz_1" in="Compo_BrazoIz_1" inport="1"/>
-     <link out="Compo_BrazoIz_1" in="Compo_torso" inport="2"/>
+     <link out="Compo_BrazoIz_1" in="Compo_torso" inport="1"/>
      <link out="Peg-Principal" in="Pantalon-P"/>
      <link out="Peg-Principal" in="torso_superior"/>
      <link out="Deformation-BrazoIz" in="BrazoIz" inport="0"/>

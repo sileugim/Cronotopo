@@ -58,9 +58,6 @@
  <Element Name="Camisa" ID="23" Folder="Camisa">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Camisa_trasera" ID="24" Folder="Camisa_trasera">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
  <Element Name="Pantalon" ID="25" Folder="Pantalon">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
