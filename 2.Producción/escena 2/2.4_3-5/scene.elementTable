@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Premium (HarmonyPremium.exe) version 16.0.1 build 14405 2019-02-08 08:43:49" version="1601" build="14405">
+ <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="2" elementName="dentro_de_la_estacion" elementFolder="dentro_de_la_estacion" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="3" elementName="SILLAS" elementFolder="SILLAS" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="4" elementName="MESA" elementFolder="MESA" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="37" elementName="Cabello" elementFolder="Cabello" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="38" elementName="Oreja_Iz" elementFolder="Oreja_Iz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="39" elementName="Camisa" elementFolder="Camisa" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="40" elementName="Pantalon" elementFolder="Pantalon" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="41" elementName="Cuello" elementFolder="Cuello" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="42" elementName="Oreja_De" elementFolder="Oreja_De" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="43" elementName="OjoIz" elementFolder="OjoIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="44" elementName="ManoIz" elementFolder="ManoIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="45" elementName="ManoIz" elementFolder="ManoIz.45" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="46" elementName="Zapato" elementFolder="Zapato" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="47" elementName="Zapato" elementFolder="Zapato.47" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="48" elementName="Muslo" elementFolder="Muslo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="49" elementName="PiernaIz" elementFolder="PiernaIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="50" elementName="AnteBrazoIz" elementFolder="AnteBrazoIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="51" elementName="PiernaIz" elementFolder="PiernaIz.51" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="52" elementName="BrazoIz" elementFolder="BrazoIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="53" elementName="Muslo" elementFolder="Muslo.53" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="54" elementName="PupliaIz" elementFolder="PupliaIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="55" elementName="Parapado_SupIz" elementFolder="Parapado_SupIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="56" elementName="Nariz" elementFolder="Nariz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="57" elementName="cejasIz" elementFolder="cejasIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="58" elementName="Parpado_InfIz" elementFolder="Parpado_InfIz" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="59" elementName="Parapado_SupIz" elementFolder="Parapado_SupIz.59" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="60" elementName="PupliaIz" elementFolder="PupliaIz.60" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="61" elementName="cejasIz" elementFolder="cejasIz.61" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="62" elementName="Boca" elementFolder="Boca" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="63" elementName="Cabeza" elementFolder="Cabeza" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="64" elementName="Parpado_InfIz" elementFolder="Parpado_InfIz.64" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="65" elementName="OjoIz" elementFolder="OjoIz.65" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="66" elementName="BrazoIz" elementFolder="BrazoIz.66" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="67" elementName="AnteBrazoIz" elementFolder="AnteBrazoIz.67" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>

@@ -52,45 +52,6 @@
  <Element Name="Ceja_IZ" ID="19" Folder="Ceja_IZ">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Cabeza_LAT" ID="21" Folder="Cabeza_LAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Torso_LAT" ID="22" Folder="Torso_LAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Brazo_DELAT" ID="23" Folder="Brazo_DELAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Mano_IZLAT" ID="24" Folder="Mano_IZLAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Brazo_IZLAT" ID="25" Folder="Brazo_IZLAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Mano_DELAT" ID="26" Folder="Mano_DELAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Cejas_LAT" ID="27" Folder="Cejas_LAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Cuello_LAT" ID="28" Folder="Cuello_LAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Pupilas_LAT" ID="30" Folder="Pupilas_LAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Ojos_LAT" ID="31" Folder="Ojos_LAT">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Boca_LAT" ID="32" Folder="Boca_LAT">
-  <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="2" Version="1"/>
-  <Drawing Key="" Name="3" Version="1"/>
-  <Drawing Key="" Name="4" Version="1"/>
-  <Drawing Key="" Name="5" Version="1"/>
-  <Drawing Key="" Name="6" Version="1"/>
-  <Drawing Key="" Name="7" Version="1"/>
- </Element>
  <Element Name="Pierna_IZ" ID="34" Folder="Pierna_IZ">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
@@ -142,22 +103,68 @@
  <Element Name="Pupila_IZ" ID="53" Folder="Pupila_IZ">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Pierna_IZ" ID="63" Folder="Pierna_IZ.63">
+ <Element Name="Torso" ID="71" Folder="Torso.71">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Zapato_IZ" ID="64" Folder="Zapato_IZ.64">
+ <Element Name="Mano_IZ" ID="72" Folder="Mano_IZ.72">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Pierna_DE" ID="65" Folder="Pierna_DE.65">
+ <Element Name="Brazo_IZ" ID="73" Folder="Brazo_IZ.73">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Zapato_DE" ID="66" Folder="Zapato_DE.66">
+ <Element Name="cabeza" ID="74" Folder="cabeza.74">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Cabeza_LAT" ID="68" Folder="Cabeza_LAT.68">
+ <Element Name="Pelo_Orejas" ID="75" Folder="Pelo_Orejas.75">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Cabeza_LAT" ID="69" Folder="Cabeza_LAT.69">
+ <Element Name="Nariz" ID="76" Folder="Nariz.76">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Brazo_DE" ID="77" Folder="Brazo_DE.77">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Mano_DE" ID="78" Folder="Mano_DE.78">
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ojo_DE" ID="79" Folder="Ojo_DE.79">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ojo_IZ" ID="80" Folder="Ojo_IZ.80">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pupilas_IZ" ID="81" Folder="Pupilas_IZ.81">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ceja_IZ" ID="82" Folder="Ceja_IZ.82">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Boca" ID="83" Folder="Boca.83">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+ </Element>
+ <Element Name="Ceja_DE" ID="84" Folder="Ceja_DE.84">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pupilas_DE" ID="85" Folder="Pupilas_DE.85">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Zapato_DE" ID="86" Folder="Zapato_DE.86">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Zapato_IZ" ID="87" Folder="Zapato_IZ.87">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pierna_IZ" ID="88" Folder="Pierna_IZ.88">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pierna_DE" ID="89" Folder="Pierna_DE.89">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
 </SceneVersion>

@@ -1,0 +1,220 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="3.5_7-9" ID="1">
+ <Element Name="Drawing" ID="1" Folder="Drawing"/>
+ <Element Name="Plano_de_golpe_de_dan_a_tom" ID="2" Folder="Plano_de_golpe_de_dan_a_tom">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Torso" ID="3" Folder="Torso">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Mano_IZ" ID="4" Folder="Mano_IZ">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Brazo_IZ" ID="5" Folder="Brazo_IZ">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cabeza" ID="6" Folder="cabeza">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pelo_Orejas" ID="7" Folder="Pelo_Orejas">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Nariz" ID="8" Folder="Nariz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Brazo_DE" ID="9" Folder="Brazo_DE">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Mano_DE" ID="10" Folder="Mano_DE">
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cuello" ID="11" Folder="Cuello">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ojo_DE" ID="12" Folder="Ojo_DE">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ojo_IZ" ID="13" Folder="Ojo_IZ">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pupilas_IZ" ID="14" Folder="Pupilas_IZ">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ceja_IZ" ID="15" Folder="Ceja_IZ">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="capucha" ID="16" Folder="capucha">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Boca" ID="17" Folder="Boca">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+ </Element>
+ <Element Name="Ceja_DE" ID="18" Folder="Ceja_DE">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pupilas_DE" ID="19" Folder="Pupilas_DE">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Zapato_DE" ID="20" Folder="Zapato_DE">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Zapato_IZ" ID="21" Folder="Zapato_IZ">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pierna_IZ" ID="22" Folder="Pierna_IZ">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pierna_DE" ID="23" Folder="Pierna_DE">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cabeza_LAT" ID="24" Folder="Cabeza_LAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pupilas_LAT" ID="25" Folder="Pupilas_LAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Torso_LAT" ID="26" Folder="Torso_LAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Brazo_DELAT" ID="27" Folder="Brazo_DELAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Mano_IZLAT" ID="28" Folder="Mano_IZLAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Brazo_IZLAT" ID="29" Folder="Brazo_IZLAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Mano_DELAT" ID="30" Folder="Mano_DELAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Ojos_LAT" ID="31" Folder="Ojos_LAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cuello_LAT" ID="32" Folder="Cuello_LAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cejas_LAT" ID="33" Folder="Cejas_LAT">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Boca_LAT" ID="34" Folder="Boca_LAT">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+ </Element>
+ <Element Name="Cabeza_LAT" ID="35" Folder="Cabeza_LAT.35">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cabeza_LAT" ID="36" Folder="Cabeza_LAT.36">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="OjoIz" ID="37" Folder="OjoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parapado_SupIz" ID="38" Folder="Parapado_SupIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parpado_InfIz" ID="39" Folder="Parpado_InfIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cejasIz" ID="40" Folder="cejasIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PupliaIz" ID="41" Folder="PupliaIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PupliaIz" ID="42" Folder="PupliaIz.42">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="OjoIz" ID="43" Folder="OjoIz.43">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parapado_SupIz" ID="44" Folder="Parapado_SupIz.44">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parpado_InfIz" ID="45" Folder="Parpado_InfIz.45">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cejasIz" ID="46" Folder="cejasIz.46">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cabeza" ID="47" Folder="Cabeza.47">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Oreja_De" ID="48" Folder="Oreja_De">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Nariz" ID="49" Folder="Nariz.49">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cabello" ID="50" Folder="Cabello">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Boca" ID="51" Folder="Boca.51">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+ </Element>
+ <Element Name="Oreja_Iz" ID="52" Folder="Oreja_Iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cuello" ID="53" Folder="Cuello.53">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Camisa" ID="54" Folder="Camisa">
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="BrazoIz" ID="55" Folder="BrazoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="AnteBrazoIz" ID="56" Folder="AnteBrazoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="ManoIz" ID="57" Folder="ManoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="BrazoIz" ID="58" Folder="BrazoIz.58">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="AnteBrazoIz" ID="59" Folder="AnteBrazoIz.59">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="ManoIz" ID="60" Folder="ManoIz.60">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pantalon" ID="61" Folder="Pantalon">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Muslo_iz" ID="62" Folder="Muslo_iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PiernaIz" ID="63" Folder="PiernaIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pie_iz" ID="64" Folder="Pie_iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Muslo_iz" ID="65" Folder="Muslo_iz.65">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PiernaIz" ID="66" Folder="PiernaIz.66">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pie_iz" ID="67" Folder="Pie_iz.67">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
