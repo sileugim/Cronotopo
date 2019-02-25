@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551114269
+<REAPER_PROJECT 0.1 "5.97/x64" 1551119815
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 2.43810624482032
-  ZOOM 394.43260047216717 355 0
-  VZOOMEX 6
+  CURSOR 19.29824611002866
+  ZOOM 12.92184238729338 0 0
+  VZOOMEX 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 2\2.4_3-5.avi"
+  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 2\2.5_1-2.avi"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 2 0 0 16 1000
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 3.32378565620403 0
-  SELECTION2 3.32378565620403 0
+  SELECTION 21.08083838392728 0
+  SELECTION2 21.08083838392728 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -1327,11 +1327,11 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 5.51843198022862
+      LENGTH 20.08203429407105
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
       MUTE 0
       SEL 0
       IGUID {D0DE696C-05ED-446A-8DA7-CFCBB2978542}
@@ -1419,21 +1419,21 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 5.51843198022862
+      LENGTH 21.08083838392728
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {C25BF86A-172A-4CAD-B53C-6F4D1AEAC665}
-      IID 31
+      IGUID {3748F362-5FC7-4848-BC80-558698AE098E}
+      IID 334
       NAME "Christian Smith - Grey Skies (TCM Underground Official - Dark Ambient Remix) (1).mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 2.36417260037388
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A673E142-08AD-498A-8DA1-D1B1CD3C2A2C}
+      GUID {E53304AA-6743-473E-A6CD-CEF822E95E13}
       <SOURCE MP3
         FILE "Banda Sonora\banda sonora-propuestas\1.orfnato-hermanos juntos\Christian Smith - Grey Skies (TCM Underground Official - Dark Ambient Remix) (1).mp3" 1
       >
@@ -2558,9 +2558,11 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT -0.0005 1.22 0
-      PT 0 1.25562464 0 0 1
-      PT 0.000001 1.25562464 0 0 1
-      PT 37.6964861 1.25562464 0 0 1
+      PT 0 1.29228954 0 0 1
+      PT 0.000001 1.29228954 0 0 1
+      PT 21.08083738 1.29228954 0 0 1
+      PT 21.08133838 1.25562464 0
+      PT 37.6964861 1.25562464 0
       PT 37.6969871 1.22 0
     >
     <FXCHAIN
@@ -2685,7 +2687,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.04 0
+      PT -0.0005 0.04 0
+      PT 0 0.04360738 0 0 1
+      PT 0.000001 0.04360738 0 0 1
+      PT 21.08083738 0.04360738 0 0 1
+      PT 21.08133838 0.04 0
     >
     <ITEM
       POSITION 0.35661711130469
@@ -2739,7 +2745,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0.45 0.5763523 0
+      PT -0.0005 0.5763523 0
+      PT 0.000001 0.61050332 0 0 1
+      PT 0.45 0.61050332 0 0 1
+      PT 21.08083738 0.61050332 0 0 1
+      PT 21.08133838 0.5763523 0
     >
     <FXCHAIN
       WNDRECT 24 52 754 466
@@ -2822,15 +2832,15 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT -0.0005 0.39 0
-      PT 0 0.40138821 0 0 1
-      PT 0.000001 0.40138821 0 0 1
-      PT 5.15900843 0.40138821 0 0 1
-      PT 5.38210069 1.04978454 0 0 1
-      PT 6.40888046 1.04978454 0 0 1
-      PT 6.79562324 0.68956435 0 0 1
-      PT 9.83431656 0.68956435 0 0 1
-      PT 10.27630832 1.09095256 0 0 1
-      PT 37.6964861 1.09095256 0 0 1
+      PT 0 0.39 0 0 1
+      PT 0.000001 0.39 0 0 1
+      PT 5.15900843 0.39 0 0 1
+      PT 5.38210069 1.02 0 0 1
+      PT 6.40888046 1.02 0 0 1
+      PT 6.79562324 0.67 0 0 1
+      PT 9.83431656 0.67 0 0 1
+      PT 10.27630832 1.06 0 0 1
+      PT 37.6964861 1.06 0 0 1
       PT 37.6969871 1.06 0
     >
     <PANENV2
@@ -2839,11 +2849,15 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.44 0
-      PT 5.23603633 0.47 0 0 1
-      PT 5.41364951 0.11 0
-      PT 6.62852361 0.11 0
-      PT 6.90993203 0.46 0
+      PT -0.0005 0.44 0
+      PT 0 0.46 0 0 1
+      PT 0.000001 0.46000001 0 0 1
+      PT 5.23603633 0.49 0 0 1
+      PT 5.41364951 0.13 0 0 1
+      PT 6.62852361 0.13 0 0 1
+      PT 6.90993203 0.48 0 0 1
+      PT 21.08083738 0.48 0 0 1
+      PT 21.08133838 0.46 0
     >
     <ITEM
       POSITION 0
@@ -2897,7 +2911,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.44 0
+      PT -0.0005 0.44 0
+      PT 0 0.46 0 0 1
+      PT 0.000001 0.46 0 0 1
+      PT 21.08083738 0.46 0 0 1
+      PT 21.08133838 0.44 0
     >
     <ITEM
       POSITION 0
@@ -2951,7 +2969,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.23 0
+      PT -0.0005 0.23 0
+      PT 0 0.23671612 0 0 1
+      PT 0.000001 0.23671612 0 0 1
+      PT 21.08083738 0.23671612 0 0 1
+      PT 21.08133838 0.23 0
     >
     <ITEM
       POSITION 0
@@ -3135,9 +3157,9 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT -0.0005 0.4 0
-      PT 0 0.41168021 0 0 1
-      PT 0.000001 0.41168021 0 0 1
-      PT 37.6964861 0.41168021 0 0 1
+      PT 0 0.4 0 0 1
+      PT 0.000001 0.4 0 0 1
+      PT 37.6964861 0.4 0 0 1
       PT 37.6969871 0.4 0
     >
     <ITEM
@@ -3192,7 +3214,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.23 0
+      PT -0.0005 0.23 0
+      PT 0 0.23671612 0 0 1
+      PT 0.000001 0.23671612 0 0 1
+      PT 21.08083738 0.23671612 0 0 1
+      PT 21.08133838 0.23 0
     >
     <ITEM
       POSITION 0
@@ -3322,13 +3348,220 @@
       >
     >
   >
+  <TRACK {2A81E6E5-BF23-4CB0-B3CD-5BB4D96FDDB0}
+    NAME " Escena 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2A81E6E5-BF23-4CB0-B3CD-5BB4D96FDDB0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {9FF52772-AA49-4519-845C-2A6D1C9B8C87}
+    NAME 2.5_1-2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FF52772-AA49-4519-845C-2A6D1C9B8C87}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT -0.0005 0.58 0
+      PT 0 0.61436716 0 0 1
+      PT 0.000001 0.61436716 0 0 1
+      PT 21.08083738 0.61436716 0 0 1
+      PT 21.08133838 0.58 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {894B7712-370A-4CEC-A0F6-1311FF583296}
+      IID 327
+      NAME 2.5_1-2.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C14D5507-A974-45BE-89CA-A4755D2CE2D1}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\2.5_1-2.wmv"
+      >
+    >
+  >
+  <TRACK {8E4E0519-AE77-461C-B22D-EAE0B034B984}
+    NAME "Ambiente de duelo de accion"
+    PEAKCOL 33488896
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8E4E0519-AE77-461C-B22D-EAE0B034B984}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT -0.0005 0.68233955 0
+      PT 0 0.70226422 0 0 1
+      PT 0.000001 0.70226422 0 0 1
+      PT 21.08083738 0.70226422 0 0 1
+      PT 21.08133838 0.68233955 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.59380055820976
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CBEC13F1-849E-4B04-8111-E9F24ECFC102}
+      IID 329
+      NAME jolie_police_-_afterwar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.80748936073418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C09A6A2-A88D-4BB6-A726-FA9F49DF89BB}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\2.jhon nota un sonido en el callejon\jolie_police_-_afterwar.mp3" 1
+      >
+    >
+  >
+  <TRACK {2E9B8D7E-854C-4089-AD65-8F5DA221B4D5}
+    NAME Corrida
+    PEAKCOL 25231104
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2E9B8D7E-854C-4089-AD65-8F5DA221B4D5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.33 0
+    >
+    <FXCHAIN
+      WNDRECT 290 47 716 200
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS sstillwell/hpflpf ""
+        0.000000 4000.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69EDEC15-FD80-40C2-8476-9B4BFE3D7C38}
+      WAK 0
+    >
+    <ITEM
+      POSITION 3.38207338440863
+      SNAPOFFS 0
+      LENGTH 1.21172717380113
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.256306 0 1 0 0
+      FADEOUT 1 0.216875 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D5900881-A76D-4E84-84A9-07AA383C4A39}
+      IID 22
+      NAME 371377__goldkelchen__children-playing.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E919178-A103-4F0A-81D2-A35209D5A2D6}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\risas niños\371377__goldkelchen__children-playing.mp3" 1
+      >
+    >
+  >
   <TRACK {CAA2DE3F-D505-4EC7-9248-6F18CA677EB3}
     NAME 2.4_3-5
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -3351,7 +3584,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.75 0
+      PT -0.0005 0.75 0
+      PT 0 0.84151384 0 0 1
+      PT 0.000001 0.84151384 0 0 1
+      PT 21.08083738 0.84151384 0 0 1
+      PT 21.08133838 0.75 0
     >
     <ITEM
       POSITION 0
@@ -3382,13 +3619,13 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -3416,7 +3653,7 @@
       FADEIN 1 0.68665 0 1 0 0
       FADEOUT 1 1.500494 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {A54BE5FB-D3CB-4831-9909-2314F9B83C77}
       IID 32
       NAME "EXO - 너의 세상으로 (Angel).mp3"
@@ -3429,30 +3666,6 @@
         FILE "Banda Sonora\banda sonora-propuestas\1.orfnato-hermanos juntos\EXO - 너의 세상으로 (Angel).mp3" 1
       >
     >
-  >
-  <TRACK {2A81E6E5-BF23-4CB0-B3CD-5BB4D96FDDB0}
-    NAME " Escena 2"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {2A81E6E5-BF23-4CB0-B3CD-5BB4D96FDDB0}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
   >
   <TRACK {2A0AF85E-37E5-4CEC-9634-F0695030FFF4}
     NAME "2.4_7 video def1"
@@ -3629,7 +3842,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.29 0
+      PT -0.0005 0.29 0
+      PT 0 0.29846815 0 0 1
+      PT 0.000001 0.29846815 0 0 1
+      PT 21.08083738 0.29846815 0 0 1
+      PT 21.08133838 0.29 0
     >
     <ITEM
       POSITION 0
@@ -3730,9 +3947,11 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT -0.0005 0.34 0
-      PT 0 0.34992818 0 0 1
-      PT 0.000001 0.34992818 0 0 1
-      PT 37.6964861 0.34992818 0 0 1
+      PT 0 0.38148627 0 0 1
+      PT 0.000001 0.38148627 0 0 1
+      PT 21.08083738 0.38148627 0 0 1
+      PT 21.08133838 0.34992818 0
+      PT 37.6964861 0.34992818 0
       PT 37.6969871 0.34 0
     >
     <ITEM
@@ -3811,15 +4030,19 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.33 0
-      PT 1.9425808 0.33 0
-      PT 2.24784349 1 0
-      PT 10.434434 1.03 0
-      PT 10.79519901 0.19 0
-      PT 19.50906144 0.16 0
-      PT 20.00858222 1 0
+      PT -0.0005 0.33 0
+      PT 0 0.35976088 0 0 1
+      PT 0.000001 0.35976088 0 0 1
+      PT 1.9425808 0.35976088 0 0 1
+      PT 2.24784349 1.09018449 0 0 1
+      PT 10.434434 1.12289003 0 0 1
+      PT 10.79519901 0.20713505 0 0 1
+      PT 19.50906144 0.17442952 0 0 1
+      PT 20.00858222 1.09018449 0 0 1
+      PT 21.08083738 1.09018449 0 0 1
+      PT 21.08133838 1 0
       PT 23.75498804 1 0
-      PT 23.97699728 1.38 0 0 1
+      PT 23.97699728 1.38 0
       PT 24.80953191 1.38 0
       PT 25.03154114 1.3 0
       PT 27.05053301 1.3 0
@@ -3833,10 +4056,14 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0 0
+      PT -0.0005 0 0
+      PT 0 0.01 0 0 1
+      PT 0.000001 0.01 0 0 1
+      PT 21.08083738 0.01 0 0 1
+      PT 21.08133838 0 0
       PT 23.64398343 0 0
       PT 23.92149497 0.75 0
-      PT 24.83728306 0.75 0 0 1
+      PT 24.83728306 0.75 0
       PT 25.14254576 0 0
     >
     <ITEM
@@ -4005,9 +4232,13 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0 0
-      PT 19.96619308 0 0
-      PT 25.53815393 0.3 0 0 1
+      PT -0.0005 0 0
+      PT 0 0 0 0 1
+      PT 0.000001 0 0 0 1
+      PT 19.96619308 0 0 0 1
+      PT 21.08083738 0.0693026 0 0 1
+      PT 21.08133838 0.06004055 0
+      PT 25.53815393 0.3 0
     >
     <ITEM
       POSITION 0
@@ -4061,11 +4292,15 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.69 0
-      PT 23.7072287 0.28 0 0 1
-      PT 24.60949379 1.04 0 0 1
-      PT 28.63368774 1.04 0 0 1
-      PT 29.25279451 0.28 0 0 1
+      PT -0.0005 0.69 0
+      PT 0 0.71014836 0 0 1
+      PT 0.000001 0.71014835 0 0 1
+      PT 21.08083738 0.33492409 0 0 1
+      PT 21.08133838 0.32541294 0
+      PT 23.7072287 0.28 0
+      PT 24.60949379 1.04 0
+      PT 28.63368774 1.04 0
+      PT 29.25279451 0.28 0
     >
     <PANENV2
       ACT 1 -1
@@ -4319,7 +4554,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.31 0
+      PT -0.0005 0.31 0
+      PT 0 0.31905216 0 0 1
+      PT 0.000001 0.31905216 0 0 1
+      PT 21.08083738 0.31905216 0 0 1
+      PT 21.08133838 0.31 0
     >
     <ITEM
       POSITION 0
@@ -4373,7 +4612,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.22 0
+      PT -0.0005 0.22 0
+      PT 0 0.23303582 0 0 1
+      PT 0.000001 0.23303582 0 0 1
+      PT 21.08083738 0.23303582 0 0 1
+      PT 21.08133838 0.22 0
     >
     <ITEM
       POSITION 0
@@ -4427,7 +4670,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.29 0
+      PT -0.0005 0.29 0
+      PT 0 0.30718358 0 0 1
+      PT 0.000001 0.30718358 0 0 1
+      PT 21.08083738 0.30718358 0 0 1
+      PT 21.08133838 0.29 0
     >
     <ITEM
       POSITION 1.874
@@ -4506,9 +4753,11 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT -0.0005 0.38 0
-      PT 0 0.3910962 0 0 1
-      PT 0.000001 0.3910962 0 0 1
-      PT 37.6964861 0.3910962 0 0 1
+      PT 0 0.40251642 0 0 1
+      PT 0.000001 0.40251642 0 0 1
+      PT 21.08083738 0.40251642 0 0 1
+      PT 21.08133838 0.3910962 0
+      PT 37.6964861 0.3910962 0
       PT 37.6969871 0.38 0
     >
     <ITEM
@@ -5414,6 +5663,122 @@
       GUID {C531DA74-5894-4D30-B45A-26FB0E3D4D9E}
       <SOURCE WAVE
         FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\risas niños\193697__conleec__amb-s-park-children-swingset-03.wav"
+      >
+    >
+  >
+  <TRACK {3E8909C8-F7B6-4603-BA64-B8A699B50DED}
+    NAME 1.2_10-11+3_1-12
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 60 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3E8909C8-F7B6-4603-BA64-B8A699B50DED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.86 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.51 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21.082
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F3F7BD9E-E2D2-49A8-AD18-1778A24163D7}
+      IID 333
+      NAME 1.2_10-11+3_1-12.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6C44177-925D-4247-83E4-9666C20C2CB9}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\1.2_10-11+3_1-12.wmv"
+      >
+    >
+  >
+  <TRACK {75EF1E5E-5F7B-4C51-9D3F-9ACE0DB0D406}
+    NAME "Musica nostalgica"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 82 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {75EF1E5E-5F7B-4C51-9D3F-9ACE0DB0D406}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.68 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21.08083838392728
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.209577 0 1 0 0
+      FADEOUT 1 1.012862 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5FEF5C1-10E8-4586-A609-C1C0F3C29E3F}
+      IID 337
+      NAME "Christian Smith - Grey Skies (TCM Underground Official - Dark Ambient Remix) (1).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.28849913556192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DC45ED5-B5F5-4AC4-BEF1-C29649CDC119}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\1.orfnato-hermanos juntos\Christian Smith - Grey Skies (TCM Underground Official - Dark Ambient Remix) (1).mp3" 1
       >
     >
   >
