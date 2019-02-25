@@ -1,0 +1,105 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="3.5_4-5" ID="1">
+ <Element Name="Drawing" ID="1" Folder="Drawing"/>
+ <Element Name="Callejon_persecucion" ID="3" Folder="Callejon_persecucion">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cabello" ID="4" Folder="Cabello">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Oreja_De" ID="5" Folder="Oreja_De">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="OjoIz" ID="6" Folder="OjoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cuello" ID="7" Folder="Cuello">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pantalon" ID="8" Folder="Pantalon">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Camisa" ID="9" Folder="Camisa">
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Oreja_Iz" ID="10" Folder="Oreja_Iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="ManoIz" ID="11" Folder="ManoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pie_iz" ID="12" Folder="Pie_iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="ManoIz" ID="13" Folder="ManoIz.13">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PiernaIz" ID="14" Folder="PiernaIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="AnteBrazoIz" ID="15" Folder="AnteBrazoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="BrazoIz" ID="16" Folder="BrazoIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Muslo_iz" ID="17" Folder="Muslo_iz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PiernaIz" ID="18" Folder="PiernaIz.18">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Pie_iz" ID="19" Folder="Pie_iz.19">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Muslo_iz" ID="20" Folder="Muslo_iz.20">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PupliaIz" ID="21" Folder="PupliaIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Nariz" ID="22" Folder="Nariz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="OjoIz" ID="23" Folder="OjoIz.23">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cejasIz" ID="24" Folder="cejasIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parpado_InfIz" ID="25" Folder="Parpado_InfIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parpado_InfIz" ID="26" Folder="Parpado_InfIz.26">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parapado_SupIz" ID="27" Folder="Parapado_SupIz">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="PupliaIz" ID="28" Folder="PupliaIz.28">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cabeza" ID="29" Folder="Cabeza">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="cejasIz" ID="30" Folder="cejasIz.30">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Parapado_SupIz" ID="31" Folder="Parapado_SupIz.31">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Boca" ID="32" Folder="Boca">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+ </Element>
+ <Element Name="BrazoIz" ID="33" Folder="BrazoIz.33">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="AnteBrazoIz" ID="34" Folder="AnteBrazoIz.34">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>

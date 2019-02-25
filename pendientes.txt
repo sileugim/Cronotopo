@@ -14,9 +14,10 @@ Diseño
 
 
 Post-produccón
--hago zoom de estación de policia para escena 2
+
 -reutilizar plano de golpe en escena 3 y 4
 -reutilizo escape de dan en escena 2 en las escenas 3 y 4
 -reutilizar golpe de escena 3 en escena 7
 -reutilizo escena de disparo de escena 7 para escena 8
 -reuzo escena de puerte de jonh en escena 2 para flasback de escena 8
+-4 reciclada totalmente
