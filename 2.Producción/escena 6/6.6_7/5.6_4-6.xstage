@@ -40,6 +40,8 @@
   <element id="9" elementName="Mano_DELAT" elementFolder="Mano_DELAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="10" elementName="Ojos_LAT" elementFolder="Ojos_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -93,38 +95,42 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="09960f9b1894b587" nbframes="60" startFrame="1" stopFrame="60">
+  <scene name="Top" id="09960f9b1894b587" nbframes="99" startFrame="1" stopFrame="99">
    <columns>
     <column type="0" name="Drawing" displayOrder="0" width="100" anonymous="true" id="1"/>
     <column type="0" name="ATV-09960F9B1894BC37" displayOrder="0" width="100" anonymous="true" id="2">
-     <elementSeq exposures="1-60" val="1" id="2"/>
+     <elementSeq exposures="1-99" val="1" id="2"/>
     </column>
     <column type="3" name="ATV-09960F9B1894BD10" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1.4992230317652984" y="1.4992230317652984"/>
      </points>
     </column>
     <column type="3" name="ATV-09960F9B1894BD11" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1.4992230317652984" y="1.4992230317652984"/>
      </points>
     </column>
     <column type="3" name="ATV-09960F9B1894BD12" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-09960F9B1894BD13" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="0" name="ATV-09960F9B1894BEF6" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1,5" val="1" id="3"/>
+     <elementSeq exposures="1-4,5-99" val="1" id="3"/>
     </column>
     <column type="2" name="ATV-09960F9B1894BEF8" anonymous="true" displayOrder="0">
      <infoX width="100"/>
@@ -136,8 +142,9 @@
        <pt val="-4.2916563036599129,-12.072193530647594,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-09960F9B1894BEFA" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-09965612A8500E69" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
       </points>
@@ -145,24 +152,28 @@
     </column>
     <column type="3" name="ATV-09960F9B1894BEFB" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1.7623179826399686" y="1.7623179826399686"/>
      </points>
     </column>
     <column type="3" name="ATV-09960F9B1894BEFD" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1.7623179826399686" y="1.7623179826399686"/>
      </points>
     </column>
     <column type="3" name="ATV-09960F9B1894BEFF" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-7.2325124854997978e-015" y="-7.2325124854997978e-015"/>
      </points>
     </column>
     <column type="3" name="ATV-09960F9B1894BF01" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-7.2325124854997947e-015" y="-7.2325124854997947e-015"/>
      </points>
@@ -175,78 +186,372 @@
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points>
        <pt val="-0.099999759942424937,0,0" lockedInTime="1"/>
+       <pt val="-0.099999759942424937,0,-0.00254058837890625" lockedInTime="13"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-09960F9B1894BF05" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-09965612A8500E6B" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <noFrames/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+       <pt constSeg="false" x="13" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-09960F9B1894BF06" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09960F9B1894BF08" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09960F9B1894BF0A" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09960F9B1894BF0C" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <noFrames/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF0E" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="4">
+     <elementSeq exposures="1-4,5-99" val="1" id="4"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF10" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1-4,5-99" val="1" id="5"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF12" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1-4,5-99" val="1" id="6"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF14" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1-4,5-99" val="1" id="7"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF16" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1-4,5-99" val="1" id="8"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF18" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="9">
+     <elementSeq exposures="1-4,6-99" val="2" id="9"/>
+     <elementSeq exposures="5" val="1" id="9"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF1A" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="10">
+     <elementSeq exposures="1-4,5-99" val="1" id="10"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF1C" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="11">
+     <elementSeq exposures="1-4,5-99" val="1" id="11"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF1E" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="12">
+     <elementSeq exposures="1-4,5-99" val="1" id="12"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF20" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="13">
+     <elementSeq exposures="1-4,5-39,46-67,94-99" val="1" id="13"/>
+     <elementSeq exposures="40-45,71-72" val="2" id="13"/>
+     <elementSeq exposures="68-70" val="7" id="13"/>
+     <elementSeq exposures="73-74,80-82,88-93" val="6" id="13"/>
+     <elementSeq exposures="75-77" val="4" id="13"/>
+     <elementSeq exposures="78-79,83-87" val="3" id="13"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF22" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="14">
+     <elementSeq exposures="1-4,5-99" val="1" id="14"/>
+    </column>
+    <column type="0" name="ATV-09960F9B1894BF24" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="15">
+     <elementSeq exposures="1-4,5-99" val="1" id="15"/>
+    </column>
+    <column type="1" name="Linea8" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="16" stopFrame="997" name="Linea8.wav" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="40.915012359619141">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+    </column>
+    <column type="2" name="ATV-09965612A850298B" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="-3.2187483714323002,0.49999976662962253,-4.6249976498855618" lockedInTime="1"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-09965612A850298C" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
       </points>
      </velocity>
     </column>
-    <column type="3" name="ATV-09960F9B1894BF06" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+    <column type="3" name="ATV-09965612A850298D" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
-    <column type="3" name="ATV-09960F9B1894BF08" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+    <column type="3" name="ATV-09965612A850298E" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
-    <column type="3" name="ATV-09960F9B1894BF0A" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+    <column type="3" name="ATV-09965612A850298F" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="3" name="ATV-09960F9B1894BF0C" color="#C7C6BBFF" displayOrder="0" width="100" anonymous="true">
+    <column type="3" name="ATV-09965612A8502990" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF0E" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="4">
-     <elementSeq exposures="1,5" val="1" id="4"/>
+    <column type="3" name="ATV-09965612A8502E15" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="1" y="1"/>
+      <pt constSeg="false" x="20" yLocal="1.0000000000000002" y="1.0000000000000002"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF10" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="5">
-     <elementSeq exposures="1,5" val="1" id="5"/>
+    <column type="3" name="ATV-09965612A8502E16" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="1.0000000000000009" y="1.0000000000000009"/>
+      <pt constSeg="false" x="20" yLocal="1.0000000000000013" y="1.0000000000000013"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF12" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1,5" val="1" id="6"/>
+    <column type="3" name="ATV-09965612A8502E17" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="-11.615238748805806" y="-11.615238748805806"/>
+      <pt constSeg="false" x="20" yLocal="3.1772841974602009" y="3.1772841974602009"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF14" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="7">
-     <elementSeq exposures="1,5" val="1" id="7"/>
+    <column type="3" name="ATV-09965612A8502E18" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="20" yLocal="-5.5659706925611472e-015" y="-5.5659706925611472e-015"/>
+      <pt constSeg="false" x="1,13" yLocal="-3.1805546814635136e-015" y="-3.1805546814635136e-015"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF16" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="8">
-     <elementSeq exposures="1,5" val="1" id="8"/>
+    <column type="2" name="ATV-09965612A8502EB9" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0.45408524285013463,-0.33905031466143459,6.866455078125e-005" lockedInTime="1"/>
+       <pt val="0.45408524285013463,-0.33905031466143459,6.866455078125e-005" lockedInTime="13"/>
+       <pt val="-0.26690890848250237,-0.30829774374837787,6.866455078125e-005" lockedInTime="20"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-09965612A8502EBA" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+       <pt constSeg="false" x="13" yLocal="1.6635148380638359e-006" y="1.6635148380638359e-006"/>
+       <pt constSeg="false" x="20" yLocal="1" y="1"/>
+      </points>
+     </velocity>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF18" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="9">
-     <elementSeq exposures="1,5" val="1" id="9"/>
+    <column type="3" name="ATV-09965612A8504E70" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="0.5" y="0.5"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF1A" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="10">
-     <elementSeq exposures="1,5" val="1" id="10"/>
+    <column type="3" name="ATV-09965612A8504E71" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="-77.739991403910736" y="-77.739991403910736"/>
+      <pt constSeg="false" x="13" yLocal="-25.721314594101582" y="-25.721314594101582"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF1C" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="11">
-     <elementSeq exposures="1,5" val="1" id="11"/>
+    <column type="3" name="ATV-09965612A8504E72" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF1E" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="12">
-     <elementSeq exposures="1,5" val="1" id="12"/>
+    <column type="3" name="ATV-09965612A8504FB5" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="0.5" y="0.5"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF20" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="13">
-     <elementSeq exposures="1" val="1" id="13"/>
-     <elementSeq exposures="5" val="7" id="13"/>
+    <column type="3" name="ATV-09965612A8504FB6" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="34.002428490378492" y="34.002428490378492"/>
+      <pt constSeg="false" x="13" yLocal="142.38334983424383" y="142.38334983424383"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF22" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="14">
-     <elementSeq exposures="1,5" val="1" id="14"/>
+    <column type="3" name="ATV-09965612A8504FB7" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,13" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+     </points>
     </column>
-    <column type="0" name="ATV-09960F9B1894BF24" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="15">
-     <elementSeq exposures="1,5" val="1" id="15"/>
+    <column type="3" name="ATV-09965612A8509984" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="40,85" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509985" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="40,85" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509986" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="40,85" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509987" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="40,85" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509988" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="40,85" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509989" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="40,85" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A850998A" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="40,85" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-09965612A8509B0C" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="46"/>
+       <pt val="0,0,0" lockedInTime="68"/>
+       <pt val="0,0,0" lockedInTime="71"/>
+       <pt val="0,0,0" lockedInTime="73"/>
+       <pt val="0,0,0" lockedInTime="75"/>
+       <pt val="0,0,0" lockedInTime="78"/>
+       <pt val="0,0,0" lockedInTime="80"/>
+       <pt val="0,0,0" lockedInTime="83"/>
+       <pt val="0,0,0" lockedInTime="88"/>
+       <pt val="0,0,0" lockedInTime="94"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-09965612A8509B0D" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="46" yLocal="0" y="0"/>
+       <pt constSeg="false" x="68" yLocal="0.45833333333333465" y="0.45833333333333465"/>
+       <pt constSeg="false" x="71" yLocal="0.52083333333333515" y="0.52083333333333515"/>
+       <pt constSeg="false" x="73" yLocal="0.56250000000000067" y="0.56250000000000067"/>
+       <pt constSeg="false" x="75" yLocal="0.60416666666666619" y="0.60416666666666619"/>
+       <pt constSeg="false" x="78" yLocal="0.66666666666666674" y="0.66666666666666674"/>
+       <pt constSeg="false" x="80" yLocal="0.70833333333333226" y="0.70833333333333226"/>
+       <pt constSeg="false" x="83" yLocal="0.77083333333333282" y="0.77083333333333282"/>
+       <pt constSeg="false" x="88" yLocal="0.874999999999999" y="0.874999999999999"/>
+       <pt constSeg="false" x="94" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-09965612A8509B0E" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="46,68,71,73,75,78,80,83,88,94" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509B0F" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="46,68,71,73,75,78,80,83,88,94" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509B10" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="46,68,71,73,75,78,80,83,88,94" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A8509B11" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="46,68,71,73,75,78,80,83,88,94" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-09965612A850B97F" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="66"/>
+       <pt val="0.052194090471583854,0.14397649757276873,0" lockedInTime="76"/>
+       <pt val="0.052194090471583854,0.14397649757276873,0" lockedInTime="85"/>
+       <pt val="0.0097229358004371474,0.011600329078909125,0" lockedInTime="90"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-09965612A850B980" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="66" yLocal="0" y="0"/>
+       <pt constSeg="false" x="76" yLocal="0.52621358338176305" y="0.52621358338176305"/>
+       <pt constSeg="false" x="85" yLocal="0.5262175321209247" y="0.5262175321209247"/>
+       <pt constSeg="false" x="90" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-09965612A850B981" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="66,76,85,90" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A850B982" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="66,76,85,90" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A850B983" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="66,76,85,90" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-09965612A850B984" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="66,76,85,90" yLocal="0" y="0"/>
+     </points>
     </column>
    </columns>
    <options>
+    <camera val="Camera"/>
     <defaultDisplay val="Display"/>
    </options>
    <rootgroup name="Top">
@@ -254,7 +559,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,2" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,4" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -273,13 +578,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,3" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,5" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,4" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,6" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -306,7 +611,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <group name="Lateral" pos="-204,-70,5">
+     <group name="Lateral" pos="-204,-70,7">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -507,7 +812,7 @@
        </module>
        <module type="PEG" name="Torso_LAT-P" pos="-243,-321,32" publishUnderTab="Torso_LAT-P">
         <options>
-         <collapsed val="false"/>
+         <collapsed val="true"/>
          <version val="1"/>
         </options>
         <attrs>
@@ -1822,26 +2127,26 @@
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
          <offset>
           <separate val="true"/>
-          <x val="0" defaultValue="0"/>
-          <y val="0" defaultValue="0"/>
-          <z val="0" defaultValue="0"/>
+          <x val="0" defaultValue="0" col="ATV-09965612A8509984"/>
+          <y val="0" defaultValue="0" col="ATV-09965612A8509985"/>
+          <z val="0" defaultValue="0" col="ATV-09965612A8509986"/>
          </offset>
          <scale>
           <separate val="true"/>
           <inFields val="false"/>
           <xy val="1" defaultValue="1"/>
-          <x val="1" defaultValue="1"/>
-          <y val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1" col="ATV-09965612A8509988"/>
+          <y val="1" defaultValue="1" col="ATV-09965612A8509989"/>
           <z val="1" defaultValue="1"/>
          </scale>
          <rotation>
           <separate val="false"/>
           <anglex val="0" defaultValue="0"/>
           <angley val="0" defaultValue="0"/>
-          <anglez val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-09965612A8509987"/>
          </rotation>
-         <angle val="0" defaultValue="0"/>
-         <skew val="0" defaultValue="0"/>
+         <angle val="0" defaultValue="0" col="ATV-09965612A8509987"/>
+         <skew val="0" defaultValue="0" col="ATV-09965612A850998A"/>
          <pivot>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
@@ -2004,6 +2309,7 @@
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
          <position>
           <separate val="false"/>
+          <attr3dpath col="ATV-09965612A8502EB9"/>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
           <z val="0" defaultValue="0"/>
@@ -2012,18 +2318,18 @@
           <separate val="true"/>
           <inFields val="false"/>
           <xy val="1" defaultValue="1"/>
-          <x val="1" defaultValue="1"/>
-          <y val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1" col="ATV-09965612A8502E15"/>
+          <y val="1" defaultValue="1" col="ATV-09965612A8502E16"/>
           <z val="1" defaultValue="1"/>
          </scale>
          <rotation>
           <separate val="false"/>
           <anglex val="0" defaultValue="0"/>
           <angley val="0" defaultValue="0"/>
-          <anglez val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-09965612A8502E17"/>
          </rotation>
-         <angle val="0" defaultValue="0"/>
-         <skew val="0" defaultValue="0"/>
+         <angle val="0" defaultValue="0" col="ATV-09965612A8502E17"/>
+         <skew val="0" defaultValue="0" col="ATV-09965612A8502E18"/>
          <pivot>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
@@ -2066,6 +2372,7 @@
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
          <position>
           <separate val="false"/>
+          <attr3dpath col="ATV-09965612A850B97F"/>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
           <z val="0" defaultValue="0"/>
@@ -2074,18 +2381,18 @@
           <separate val="true"/>
           <inFields val="false"/>
           <xy val="1" defaultValue="1"/>
-          <x val="1" defaultValue="1"/>
-          <y val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1" col="ATV-09965612A850B981"/>
+          <y val="1" defaultValue="1" col="ATV-09965612A850B982"/>
           <z val="1" defaultValue="1"/>
          </scale>
          <rotation>
           <separate val="false"/>
           <anglex val="0" defaultValue="0"/>
           <angley val="0" defaultValue="0"/>
-          <anglez val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-09965612A850B983"/>
          </rotation>
-         <angle val="0" defaultValue="0"/>
-         <skew val="0" defaultValue="0"/>
+         <angle val="0" defaultValue="0" col="ATV-09965612A850B983"/>
+         <skew val="0" defaultValue="0" col="ATV-09965612A850B984"/>
          <pivot>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
@@ -2252,6 +2559,7 @@
          <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
          <position>
           <separate val="false"/>
+          <attr3dpath col="ATV-09965612A8509B0C"/>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
           <z val="0" defaultValue="0"/>
@@ -2260,18 +2568,18 @@
           <separate val="true"/>
           <inFields val="false"/>
           <xy val="1" defaultValue="1"/>
-          <x val="1" defaultValue="1"/>
-          <y val="1" defaultValue="1"/>
+          <x val="1" defaultValue="1" col="ATV-09965612A8509B0E"/>
+          <y val="1" defaultValue="1" col="ATV-09965612A8509B0F"/>
           <z val="1" defaultValue="1"/>
          </scale>
          <rotation>
           <separate val="false"/>
           <anglex val="0" defaultValue="0"/>
           <angley val="0" defaultValue="0"/>
-          <anglez val="0" defaultValue="0"/>
+          <anglez val="0" defaultValue="0" col="ATV-09965612A8509B10"/>
          </rotation>
-         <angle val="0" defaultValue="0"/>
-         <skew val="0" defaultValue="0"/>
+         <angle val="0" defaultValue="0" col="ATV-09965612A8509B10"/>
+         <skew val="0" defaultValue="0" col="ATV-09965612A8509B11"/>
          <pivot>
           <x val="0" defaultValue="0"/>
           <y val="0" defaultValue="0"/>
@@ -2592,9 +2900,9 @@
             <x val="-0.98336938197920998" defaultValue="0"/>
             <y val="4.8666261769556503" defaultValue="0"/>
            </offset>
-           <orientation val="-74.251548097008254" defaultValue="0"/>
-           <radius val="0.5" defaultValue="0.5"/>
-           <bias val="0.45000000000000001" defaultValue="0.45000000000000001"/>
+           <orientation val="-74.251548097008254" defaultValue="0" col="ATV-09965612A8504E71"/>
+           <radius val="0.5" defaultValue="0.5" col="ATV-09965612A8504E70"/>
+           <bias val="0.45000000000000001" defaultValue="0.45000000000000001" col="ATV-09965612A8504E72"/>
            <length val="2.2257279942855428" defaultValue="3"/>
           </attrs>
          </module>
@@ -2639,9 +2947,9 @@
             <x val="0" defaultValue="0"/>
             <y val="0" defaultValue="0"/>
            </offset>
-           <orientation val="3.3060569379141409" defaultValue="0"/>
-           <radius val="0.5" defaultValue="0.5"/>
-           <bias val="0.45000000000000001" defaultValue="0.45000000000000001"/>
+           <orientation val="3.3060569379141409" defaultValue="0" col="ATV-09965612A8504FB6"/>
+           <radius val="0.5" defaultValue="0.5" col="ATV-09965612A8504FB5"/>
+           <bias val="0.45000000000000001" defaultValue="0.45000000000000001" col="ATV-09965612A8504FB7"/>
            <length val="1.9325383026673837" defaultValue="3"/>
           </attrs>
          </module>
@@ -2827,7 +3135,7 @@
        <link out="Deformation-Brazo_IZLAT" in="Mano_IZLAT-P"/>
       </linkedlist>
      </group>
-     <module type="READ" name="Drawing" pos="-65,-50,6" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="-65,-50,8" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2938,7 +3246,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Plano_de_llamada_de_dan" pos="0,0,1" publishUnderTab="Plano_de_llamada_de_dan">
+     <module type="READ" name="Plano_de_llamada_de_dan" pos="0,0,3" publishUnderTab="Plano_de_llamada_de_dan">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3049,6 +3357,91 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="PEG" name="Camera-P" pos="0,0,1" publishUnderTab="Camera-P">
+      <options>
+       <collapsed val="true"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-09965612A850298B"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-09965612A850298D"/>
+        <y val="1" defaultValue="1" col="ATV-09965612A850298E"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-09965612A850298F"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-09965612A850298F"/>
+       <skew val="0" defaultValue="0" col="ATV-09965612A8502990"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="CAMERA" name="Camera" pos="0,0,2" publishUnderTab="Camera">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <offset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="12" defaultValue="0"/>
+       </offset>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+       </pivot>
+       <angle val="0" defaultValue="0"/>
+       <overrideSceneFov val="false"/>
+       <fov val="41.112090439166927" defaultValue="41.112000000000002"/>
+       <nearPlane val="0.10000000000000001" defaultValue="1"/>
+       <farPlane val="1000" defaultValue="1000"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -3056,6 +3449,7 @@
      <link out="Lateral" in="Composite" inport="2"/>
      <link out="Drawing" in="Composite" inport="1"/>
      <link out="Plano_de_llamada_de_dan" in="Composite" inport="0"/>
+     <link out="Camera-P" in="Camera"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
