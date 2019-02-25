@@ -385,8 +385,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f5263cca713bf44ea28baad5c53b5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: 3
-  regulador: 3
+  tiempo: 4
+  regulador: 4
   video: {fileID: 1469097949}
 --- !u!82 &258187162
 AudioSource:
@@ -1765,7 +1765,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1235718426}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 9ec6d36b90f15ec4b8316f85a0e9ea92, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 11cfeb732d998fa42941c217b653c289, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 519420031}
@@ -2612,8 +2612,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f5263cca713bf44ea28baad5c53b5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: 3
-  regulador: 3
+  tiempo: 5
+  regulador: 5
   video: {fileID: 1469097949}
 --- !u!82 &2025029624
 AudioSource:
@@ -2956,7 +2956,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2105228078}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 8d7810c8b5d31ac4aa299fb1e6dcff6e, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 132e1183c6b8f20448f3e0bda806d2f6, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 519420031}
