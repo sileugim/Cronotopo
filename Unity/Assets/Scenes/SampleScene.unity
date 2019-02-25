@@ -1897,8 +1897,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f5263cca713bf44ea28baad5c53b5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: 3
-  regulador: 3
+  tiempo: 7
+  regulador: 7
   video: {fileID: 8125485}
 --- !u!82 &1469097951
 AudioSource:
