@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551079959
+<REAPER_PROJECT 0.1 "5.97/x64" 1551080200
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 71.39184754376093 0 0
-  VZOOMEX 3
+  ZOOM 50.72053021187363 0 0
+  VZOOMEX 1
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 2.94151233264102 0
-  SELECTION2 2.94151233264102 0
+  SELECTION 2.91349792947301 0
+  SELECTION2 2.91349792947301 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -1265,7 +1265,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {C3D6D2AC-6D8C-4874-9BC6-5BD27CFD0D21}
       IID 28
       NAME "HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3"
@@ -1311,7 +1311,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {D0DE696C-05ED-446A-8DA7-CFCBB2978542}
       IID 29
       NAME jolie_police_-_afterwar.mp3
@@ -1357,7 +1357,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {C048BF2F-EC14-4AA8-AF5C-BA084657C385}
       IID 30
       NAME "MACRIMA - Kleine Herbstfreuden.mp3"
@@ -1449,7 +1449,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {D1D771B8-172C-4370-9CD5-86AC6001634E}
       IID 32
       NAME "EXO - 너의 세상으로 (Angel).mp3"
@@ -1495,7 +1495,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {3FCD8AC4-4FFA-4835-BFE3-84BF54FE51D8}
       IID 33
       NAME "Jonghyun &amp; CHEN - 하루 (A Day Without You).mp3"
@@ -1633,7 +1633,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {709C6F29-C236-4360-9335-ACDA8B8895EB}
       IID 37
       NAME Schauder_Mangold_-_Memories.mp3
@@ -1679,7 +1679,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {7AB04702-4AC9-4D5A-A2CC-4637D6D2C194}
       IID 38
       NAME Romu_-_Hoy_eres_el_creador_del_mundo.mp3
@@ -1725,7 +1725,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {EF122615-57ED-4556-9225-47A3070D7975}
       IID 40
       NAME The.madpix.project_-_Neverend.mp3
@@ -1955,7 +1955,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {D41700D6-BB7E-47D7-98B2-367E1BCDD584}
       IID 46
       NAME Psicotropicodelia_Music__netlabel__-_PRODUCER_SNAFU_-_Epic_Car_Comercial_Music.mp3
@@ -2001,7 +2001,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {7AFA7655-300E-40C4-AD2B-FF164D0A748B}
       IID 47
       NAME Al_kolica_-_Onirico_mentale.mp3
@@ -2047,7 +2047,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {43098A63-93F2-4177-AB9B-3F790F02B196}
       IID 48
       NAME Nei_Licis_-_Nei_Licis_-_Electric_Field.mp3
@@ -2093,7 +2093,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {C0BF3FDF-847A-46C8-9000-42339F70D204}
       IID 54
       NAME "HAVASI Rise Of The Instruments (feat Tina Guo, Peter Pejtsik).mp3"
@@ -2185,7 +2185,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {746F19EA-A01D-45A2-9766-37AC8DF42161}
       IID 53
       NAME "Havasi - The Storm (Symphonic Version).mp3"
@@ -2235,7 +2235,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2344,7 +2344,11 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 0.28 0
+      PT -0.0005 0.28 0
+      PT 0 0.28817615 0 0 1
+      PT 0.000001 0.28817615 0 0 1
+      PT 2.91349693 0.28817615 0 0 1
+      PT 2.91399793 0.28 0
     >
     <ITEM
       POSITION 4.1829798070935
@@ -3597,6 +3601,60 @@
       GUID {4E190B74-D59A-4578-BDB0-6CB9D20A214A}
       <SOURCE VIDEO
         FILE "Banda Sonora\2.4_2.wmv"
+      >
+    >
+  >
+  <TRACK {D243A35E-7FB0-4205-A66C-82AF788DC436}
+    NAME "fuck the police"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 85 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D243A35E-7FB0-4205-A66C-82AF788DC436}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.34 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.901
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.202669 0 1 0 0
+      FADEOUT 1 1.382877 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {FC8EE96C-04BF-4BB8-BCB7-D3037F940AC9}
+      IID 131
+      NAME Nei_Licis_-_Nei_Licis_-_Electric_Field.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 16.72565474022772
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5D743A2-129C-4028-A8A4-E244557461B3}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\big es acorralado\Nei_Licis_-_Nei_Licis_-_Electric_Field.mp3" 1
       >
     >
   >

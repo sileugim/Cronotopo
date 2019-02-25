@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551080200
+<REAPER_PROJECT 0.1 "5.97/x64" 1551087621
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 50.72053021187363 0 0
-  VZOOMEX 1
+  CURSOR 23.29389192178865
+  ZOOM 12.9218423872934 0 0
+  VZOOMEX 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 5\5.6_3.avi"
+  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 2\2.4_2.avi"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 2 0 0 16 1000
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 2.91349792947301 0
-  SELECTION2 2.91349792947301 0
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -126,6 +126,28 @@
       GUID {3D722628-646A-4AAA-9CB4-6A26B0D9272B}
       <SOURCE VORBIS
         FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\van tras  el sonido del disparo\244417__lennyboy__scaryviolins.ogg"
+      >
+    >
+    <ITEM
+      POSITION 43.98460651852656
+      SNAPOFFS 0
+      LENGTH 1.75938426074337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.549808 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {82D49D15-8601-4F58-B4EE-2BF97A717999}
+      IID 149
+      NAME "393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.559554555949
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5AE181A-D8BA-4F0F-80BB-A4E154B82EB7}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\Dan carga la pistola que apunta a Tom\393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
       >
     >
   >
@@ -3564,7 +3586,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -3610,7 +3632,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -3619,7 +3641,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 85 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3644,7 +3666,7 @@
       FADEIN 1 1.202669 0 1 0 0
       FADEOUT 1 1.382877 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {FC8EE96C-04BF-4BB8-BCB7-D3037F940AC9}
       IID 131
       NAME Nei_Licis_-_Nei_Licis_-_Electric_Field.mp3
@@ -3655,6 +3677,460 @@
       GUID {C5D743A2-129C-4028-A8A4-E244557461B3}
       <SOURCE MP3
         FILE "Banda Sonora\banda sonora-propuestas\big es acorralado\Nei_Licis_-_Nei_Licis_-_Electric_Field.mp3" 1
+      >
+    >
+  >
+  <TRACK {A4EE651A-E147-43B6-9AF6-6D0DD244BF7A}
+    NAME "Escena 10"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A4EE651A-E147-43B6-9AF6-6D0DD244BF7A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {39E26BAE-1557-4CD0-924F-2DFC4FF72F5F}
+    NAME 10.7_2-4
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 73 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {39E26BAE-1557-4CD0-924F-2DFC4FF72F5F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.33 0
+      PT 1.9425808 0.33 0
+      PT 2.24784349 1 0
+      PT 10.434434 1.03 0
+      PT 10.79519901 0.19 0
+      PT 19.50906144 0.16 0
+      PT 20.00858222 1 0
+      PT 23.75498804 1 0
+      PT 23.97699728 1.38 0 0 1
+      PT 24.80953191 1.38 0
+      PT 25.03154114 1.3 0
+      PT 27.05053301 1.3 0
+      PT 27.49037907 2 0
+      PT 29.46968637 2 0
+      PT 30.18443622 1 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 23.64398343 0 0
+      PT 23.92149497 0.75 0
+      PT 24.83728306 0.75 0 0 1
+      PT 25.14254576 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 33.749
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.015592 0 1 0 0
+      FADEOUT 1 0.820385 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2A370592-7DA2-4477-8CE0-1152C5284BD8}
+      IID 134
+      NAME 10.7_2-4.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEC47CFB-4D22-454D-AF04-D37DCD1C9C12}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\10.7_2-4.wmv"
+      >
+    >
+  >
+  <TRACK {4511DB82-FAC8-427E-A49B-8CCEC01A9240}
+    NAME "Ambiente epico-peligroso"
+    PEAKCOL 33488896
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 83 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4511DB82-FAC8-427E-A49B-8CCEC01A9240}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT -0 0.43 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 20.34288051484499
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.289021 0 1 0 0
+      FADEOUT 1 6.567755 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {24F40D86-A1B8-4053-9244-5859B1C851E9}
+      IID 137
+      NAME "HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.76546976555547
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17ECA03C-3757-4CEB-99A1-6C53CB2E7F45}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\3.jhon muere\HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3" 1
+      >
+    >
+  >
+  <TRACK {A9B5ADC5-76F9-4CEC-9C91-8FCFFD225949}
+    NAME "Musica de final"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 76 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A9B5ADC5-76F9-4CEC-9C91-8FCFFD225949}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.24 0
+      PT 20.50791149 0.24 0
+      PT 25.53815393 0.17 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 33.748186
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 27.232054 0 1 0 0
+      FADEOUT 1 1.178649 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0FB602E0-609A-4F11-A242-0E0CA0359462}
+      IID 37
+      NAME Schauder_Mangold_-_Memories.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFB2331B-5132-4EE4-A81F-2D2D556475AC}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\5.los hermanos dicuten\Schauder_Mangold_-_Memories.mp3" 1
+      >
+    >
+  >
+  <TRACK {DAA4004D-6186-4597-A7EB-931147C12722}
+    NAME "Musica alv"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 72 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DAA4004D-6186-4597-A7EB-931147C12722}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 19.96619308 0 0
+      PT 25.53815393 0.3 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 33.749
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 26.698979 0 1 0 0
+      FADEOUT 1 2.793662 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E966E630-7689-4B18-91B1-1AB441D82288}
+      IID 145
+      NAME "Havasi - The Storm (Symphonic Version).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 91.99660416666644
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C588687-3068-44E9-BB4E-316F2AF13CDC}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\los hermanos se reencuentran\Havasi - The Storm (Symphonic Version).mp3" 1
+      >
+    >
+  >
+  <TRACK {3EB0037C-053D-49D4-904A-2D563B8F3CF7}
+    NAME "Sonidos de arma"
+    PEAKCOL 20971520
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 64 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3EB0037C-053D-49D4-904A-2D563B8F3CF7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.69 0
+      PT 23.7072287 0.28 0 0 1
+      PT 24.60949379 1.04 0 0 1
+      PT 28.63368774 1.04 0 0 1
+      PT 29.25279451 0.28 0 0 1
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 23.75822199 0.01 0
+      PT 24.14516372 1 0
+      PT 28.5562994 1 0
+      PT 29.17540616 0.03 0 0 1
+    >
+    <FXCHAIN
+      WNDRECT 706 90 506 258
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: TAL Reverb II Plugin (x86) (TAL-Togu Audio Line)" TAL-Reverb-2.dll 0 "" 892889144 ""
+        OGg4Ne5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAIQwAAAEAAAACABAA
+        VkMyIRcMAAA8dGFsIGN1cnByb2dyYW09IjIiIHZlcnNpb249IjEiPjxwcm9ncmFtcz48cHJvZ3JhbSBwcm9ncmFtbmFtZT0iR2VudGxlIERydW0gQW1iaWVuY2UiIGRy
+        eT0iMC41IiB3ZXQ9IjAuMTMwMDAwMDEiIHJvb21zaXplPSIwLjY2MDAwMDAyNiIgcHJlZGVsYXk9IjAuMTgwMDAwMDA3IiBsb3dzaGVsZmZyZXF1ZW5jeT0iMC4wODgw
+        MDAwMDciIGhpZ2hzaGVsZmZyZXF1ZW5jeT0iMC42MzIwMDAwMjkiIHBlYWtmcmVxdWVuY3k9IjAuNTQ0MDAwMDMiIGxvd3NoZWxmZ2Fpbj0iMC45MzYwMDAwNDkiIGhp
+        Z2hzaGVsZmdhaW49IjAuODI4MDAwMDY5IiBwZWFrZ2Fpbj0iMC43NjQwMDAwNTgiIHN0ZXJlb3dpZHRoPSIxIiByZWFsc3RlcmVvbW9kZT0iMSIvPjxwcm9ncmFtIHBy
+        b2dyYW1uYW1lPSI4MCdzIFBsYXRlIiBkcnk9IjAuNSIgd2V0PSIwLjIwOTAwMDAwNiIgcm9vbXNpemU9IjAuNjYwMDAwMDI2IiBwcmVkZWxheT0iMC4wNjAwMDAwMDI0
+        IiBsb3dzaGVsZmZyZXF1ZW5jeT0iMC41IiBoaWdoc2hlbGZmcmVxdWVuY3k9IjAuNDI0MDAwMDI1IiBwZWFrZnJlcXVlbmN5PSIwLjM2ODAwMDAzMSIgbG93c2hlbGZn
+        YWluPSIxIiBoaWdoc2hlbGZnYWluPSIwLjc4ODAwMDA0NyIgcGVha2dhaW49IjAuMzY4MDAwMDMxIiBzdGVyZW93aWR0aD0iMSIgcmVhbHN0ZXJlb21vZGU9IjAiLz48
+        cHJvZ3JhbSBwcm9ncmFtbmFtZT0iQmlnIFdldCBQbGF0ZSAobm8gRVEpIiBkcnk9IjAuNSIgd2V0PSIwLjE2MTAwMDAxMyIgcm9vbXNpemU9IjAuNzUyMDAwMDM0IiBw
+        cmVkZWxheT0iMC4xMzE5OTk5OTkiIGxvd3NoZWxmZnJlcXVlbmN5PSIwLjAyNDAwMDAwMDIiIGhpZ2hzaGVsZmZyZXF1ZW5jeT0iMSIgcGVha2ZyZXF1ZW5jeT0iMC40
+        OTIwMDAwMTQiIGxvd3NoZWxmZ2Fpbj0iMSIgaGlnaHNoZWxmZ2Fpbj0iMSIgcGVha2dhaW49IjEiIHN0ZXJlb3dpZHRoPSIxIiByZWFsc3RlcmVvbW9kZT0iMCIvPjxw
+        cm9ncmFtIHByb2dyYW1uYW1lPSJTbWFsbCBEcnVtIFBsYXRlIiBkcnk9IjAuNSIgd2V0PSIwLjMzNTAwMDAwOCIgcm9vbXNpemU9IjAuMzA4MDAwMDI4IiBwcmVkZWxh
+        eT0iMC4xMjAwMDAwMDUiIGxvd3NoZWxmZnJlcXVlbmN5PSIwLjE3NjAwMDAxNCIgaGlnaHNoZWxmZnJlcXVlbmN5PSIwLjQ0NDAwMDAzNiIgcGVha2ZyZXF1ZW5jeT0i
+        MC4zMDAwMDAwMTIiIGxvd3NoZWxmZ2Fpbj0iMC43MjQwMDAwMzciIGhpZ2hzaGVsZmdhaW49IjAuNDg4MDAwMDM1IiBwZWFrZ2Fpbj0iMCIgc3RlcmVvd2lkdGg9IjEi
+        IHJlYWxzdGVyZW9tb2RlPSIxIi8+PHByb2dyYW0gcHJvZ3JhbW5hbWU9IkR1bGwgUGxhdGUiIGRyeT0iMC41IiB3ZXQ9IjAuMjQyMDAwMDE0IiByb29tc2l6ZT0iMC42
+        MzIwMDAwMjkiIHByZWRlbGF5PSIwLjE2MDAwMDAxMSIgbG93c2hlbGZmcmVxdWVuY3k9IjAuMzI4MDAwMDA5IiBoaWdoc2hlbGZmcmVxdWVuY3k9IjAuNzIwMDAwMDI5
+        IiBwZWFrZnJlcXVlbmN5PSIwLjU2ODAwMDAxOSIgbG93c2hlbGZnYWluPSIxIiBoaWdoc2hlbGZnYWluPSIwLjIxNjAwMDAwNiIgcGVha2dhaW49IjAuMzYwMDAwMDE0
+        IiBzdGVyZW93aWR0aD0iMSIgcmVhbHN0ZXJlb21vZGU9IjEiLz48cHJvZ3JhbSBwcm9ncmFtbmFtZT0iTmVlZCBzb21lIEFpciIgZHJ5PSIwLjUiIHdldD0iMC4xNDkw
+        MDAwMDQiIHJvb21zaXplPSIwLjY4ODAwMDAyMyIgcHJlZGVsYXk9IjAuMTIwMDAwMDA1IiBsb3dzaGVsZmZyZXF1ZW5jeT0iMC4yMTIwMDAwMTIiIGhpZ2hzaGVsZmZy
+        ZXF1ZW5jeT0iMC41IiBwZWFrZnJlcXVlbmN5PSIwLjUzNjAwMDAxMyIgbG93c2hlbGZnYWluPSIwLjI0ODAwMDAxMSIgaGlnaHNoZWxmZ2Fpbj0iMSIgcGVha2dhaW49
+        IjAuNjQ0MDAwMDUzIiBzdGVyZW93aWR0aD0iMSIgcmVhbHN0ZXJlb21vZGU9IjAiLz48cHJvZ3JhbSBwcm9ncmFtbmFtZT0iTWlkIFBsYXRlIiBkcnk9IjAuNSIgd2V0
+        PSIwLjM3MTAwMDAyMiIgcm9vbXNpemU9IjAuNjA0MDAwMDMyIiBwcmVkZWxheT0iMC4yMDgwMDAwMDQiIGxvd3NoZWxmZnJlcXVlbmN5PSIwLjMyNDAwMDAwMSIgaGln
+        aHNoZWxmZnJlcXVlbmN5PSIwLjI3MjAwMDAxNSIgcGVha2ZyZXF1ZW5jeT0iMC41NzYwMDAwMzUiIGxvd3NoZWxmZ2Fpbj0iMC43NjQwMDAwNTgiIGhpZ2hzaGVsZmdh
+        aW49IjAiIHBlYWtnYWluPSIwLjExMjAwMDAwMyIgc3RlcmVvd2lkdGg9IjEiIHJlYWxzdGVyZW9tb2RlPSIxIi8+PHByb2dyYW0gcHJvZ3JhbW5hbWU9IkFpcnkgTW9u
+        byBQbGF0ZSIgZHJ5PSIwLjUiIHdldD0iMC40NDEwMDAwMTUiIHJvb21zaXplPSIwLjczMjAwMDA1MyIgcHJlZGVsYXk9IjAuMDcyMDAwMDA0NCIgbG93c2hlbGZmcmVx
+        dWVuY3k9IjAuMTgwMDAwMDA3IiBoaWdoc2hlbGZmcmVxdWVuY3k9IjAuNDI4MDAwMDMzIiBwZWFrZnJlcXVlbmN5PSIwLjMyMDAwMDAyMyIgbG93c2hlbGZnYWluPSIw
+        LjM1NjAwMDAwNiIgaGlnaHNoZWxmZ2Fpbj0iMC4zODAwMDAwMjUiIHBlYWtnYWluPSIwIiBzdGVyZW93aWR0aD0iMCIgcmVhbHN0ZXJlb21vZGU9IjAiLz48cHJvZ3Jh
+        bSBwcm9ncmFtbmFtZT0iMTEwMEh6IFBsYXRlIiBkcnk9IjAuNSIgd2V0PSIwLjQwNDAwMDAxNCIgcm9vbXNpemU9IjAuNjAwMDAwMDI0IiBwcmVkZWxheT0iMC4yMTIw
+        MDAwMTIiIGxvd3NoZWxmZnJlcXVlbmN5PSIwLjM1MjAwMDAyOCIgaGlnaHNoZWxmZnJlcXVlbmN5PSIwLjM2MDAwMDAxNCIgcGVha2ZyZXF1ZW5jeT0iMSIgbG93c2hl
+        bGZnYWluPSIwIiBoaWdoc2hlbGZnYWluPSIwIiBwZWFrZ2Fpbj0iMC4yNjM5OTk5OTkiIHN0ZXJlb3dpZHRoPSIxIiByZWFsc3RlcmVvbW9kZT0iMCIvPjxwcm9ncmFt
+        IHByb2dyYW1uYW1lPSJTaG9ydCBQbGF0ZSIgZHJ5PSIwLjUiIHdldD0iMC40NzgwMDAwMTUiIHJvb21zaXplPSIwLjEwNDAwMDAwMiIgcHJlZGVsYXk9IjAuMTM2MDAw
+        MDA3IiBsb3dzaGVsZmZyZXF1ZW5jeT0iMC41IiBoaWdoc2hlbGZmcmVxdWVuY3k9IjAuNSIgcGVha2ZyZXF1ZW5jeT0iMC41MzYwMDAwMTMiIGxvd3NoZWxmZ2Fpbj0i
+        MC40OTIwMDAwMTQiIGhpZ2hzaGVsZmdhaW49IjAuMzU2MDAwMDA2IiBwZWFrZ2Fpbj0iMC4xNzIwMDAwMDYiIHN0ZXJlb3dpZHRoPSIxIiByZWFsc3RlcmVvbW9kZT0i
+        MSIvPjwvcHJvZ3JhbXM+PG1pZGltYXAvPjwvdGFsPgAA
+        AEJpZyBXZXQgUGxhdGUgKG5vIEVRKQAQAAAA
+      >
+      PRESETNAME "Big Wet Plate (no EQ)"
+      FLOATPOS 0 0 0 0
+      FXID {C5C2F19C-7BC1-421E-BDEA-0EACE2DA815B}
+      WAK 0
+    >
+    <ITEM
+      POSITION 24.74134116670336
+      SNAPOFFS 0
+      LENGTH 2.47413411667033
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.549808 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {57219375-1B92-46DD-9102-59D36060548E}
+      IID 12
+      NAME "393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F21E91A-DF3F-464E-BA88-3AEBE8655CC0}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\Dan carga la pistola que apunta a Tom\393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 26.6656677018914
+      SNAPOFFS 0
+      LENGTH 1.75938426074337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.549808 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3CA8EADD-9E62-461F-BEE2-2E411C1970DA}
+      IID 149
+      NAME "393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.559554555949
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24D70932-C37F-4338-97B0-D67622AE9AEA}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\Dan carga la pistola que apunta a Tom\393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 30.80415259402886
+      SNAPOFFS 0
+      LENGTH 1.75938426074314
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.89462 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {FF490DEE-DBB5-4D63-804D-E3C368B9418B}
+      IID 149
+      NAME "393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.559554555949
+      PLAYRATE 1.00000000000013 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E5D3D36-544E-4A7A-950B-C85F7597A44B}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\Dan carga la pistola que apunta a Tom\393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 31.66891669342294
+      SNAPOFFS 0
+      LENGTH 1.75938426074337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.89462 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C1EB0811-38FA-48A7-9E8C-1124436D4CB9}
+      IID 149
+      NAME "393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.559554555949
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0DDD701-4057-4C66-A8A3-6B02EDE3AFCE}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\Dan carga la pistola que apunta a Tom\393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
       >
     >
   >
