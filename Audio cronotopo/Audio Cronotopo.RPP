@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551119815
+<REAPER_PROJECT 0.1 "5.97/x64" 1551122540
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 19.29824611002866
-  ZOOM 12.92184238729338 0 0
-  VZOOMEX 0
+  CURSOR 27.05053300892906
+  ZOOM 18.18818135071855 0 0
+  VZOOMEX 1
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 2\2.5_1-2.avi"
+  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 1\Parte 4.avi"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 2 0 0 16 1000
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 21.08083838392728 0
-  SELECTION2 21.08083838392728 0
+  SELECTION 51.03437267954617 26.99555225078083
+  SELECTION2 51.03437267954617 26.99555225078083
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -1298,52 +1298,6 @@
       GUID {BD64DDD9-B54E-4147-8C9E-E18551FDA1FA}
       <SOURCE MP3
         FILE "Banda Sonora\banda sonora-propuestas\3.jhon muere\HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3" 1
-      >
-    >
-  >
-  <TRACK {24B75A49-DE0F-4FF4-BD20-CA76A792323A}
-    NAME "Ambiente de duelo de accion"
-    PEAKCOL 33488896
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {24B75A49-DE0F-4FF4-BD20-CA76A792323A}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 20.08203429407105
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {D0DE696C-05ED-446A-8DA7-CFCBB2978542}
-      IID 29
-      NAME jolie_police_-_afterwar.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {ACA8F0D3-50C5-4877-B356-5CB9948A7138}
-      <SOURCE MP3
-        FILE "Banda Sonora\banda sonora-propuestas\2.jhon nota un sonido en el callejon\jolie_police_-_afterwar.mp3" 1
       >
     >
   >
@@ -5672,7 +5626,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 2 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -5681,7 +5635,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 60 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -5734,7 +5688,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 0 2 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -5743,7 +5697,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 82 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -5762,11 +5716,11 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 21.08083838392728
+      LENGTH 27.038
       LOOP 1
       ALLTAKES 0
       FADEIN 1 1.209577 0 1 0 0
-      FADEOUT 1 1.012862 0 1 0 0
+      FADEOUT 1 1.307005 0 1 0 0
       MUTE 0
       SEL 0
       IGUID {F5FEF5C1-10E8-4586-A609-C1C0F3C29E3F}
@@ -5779,6 +5733,314 @@
       GUID {6DC45ED5-B5F5-4AC4-BEF1-C29649CDC119}
       <SOURCE MP3
         FILE "Banda Sonora\banda sonora-propuestas\1.orfnato-hermanos juntos\Christian Smith - Grey Skies (TCM Underground Official - Dark Ambient Remix) (1).mp3" 1
+      >
+    >
+  >
+  <TRACK {5DE653A3-9700-4DD6-8D98-E35BB4B676C0}
+    NAME "parte 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5DE653A3-9700-4DD6-8D98-E35BB4B676C0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 21.082
+      SNAPOFFS 0
+      LENGTH 4.124
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86807470-D3BC-4307-8C89-4C0A427290EC}
+      IID 338
+      NAME "parte 2.wmv"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95F26989-D309-41F9-87F8-171616381B83}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\parte 2.wmv"
+      >
+    >
+  >
+  <TRACK {B85BE9A9-6B14-452E-A2B1-5EB1B2BBD468}
+    NAME "parte 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B85BE9A9-6B14-452E-A2B1-5EB1B2BBD468}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 25.206
+      SNAPOFFS 0
+      LENGTH 1.832
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0CB27226-7F07-4D66-BE21-FBF2B08546EC}
+      IID 339
+      NAME "parte 3.wmv"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C851A0F-D83F-4467-8765-637D65D226C9}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\parte 3.wmv"
+      >
+    >
+  >
+  <TRACK {CF5B5E66-ED06-44D6-BC71-26286E2F7475}
+    NAME "Golpe rugoso"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CF5B5E66-ED06-44D6-BC71-26286E2F7475}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.03 0
+    >
+    <ITEM
+      POSITION 26.3358453903694
+      SNAPOFFS 0
+      LENGTH 0.72172335600907
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F261133-C41E-4D3D-B0FE-E4E9B1A0BC1C}
+      IID 8
+      NAME 71512__philberts__trash-fall.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96CCD769-FBF2-4BEE-B152-01FA1E17BA2C}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\bote de basura cae\71512__philberts__trash-fall.wav"
+      >
+    >
+  >
+  <TRACK {644DBD8C-6130-4A1D-BF9E-82363BD30126}
+    NAME "Ambiente epico-peligroso"
+    PEAKCOL 33488896
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {644DBD8C-6130-4A1D-BF9E-82363BD30126}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.53 0
+    >
+    <ITEM
+      POSITION 23.9903870290847
+      SNAPOFFS 0
+      LENGTH 2.72308904202631
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {144C4618-C442-438F-811E-6F6CFECDDAC3}
+      IID 321
+      NAME "HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9056398097927
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C200507D-0D68-4237-B57E-00B152DA2BF8}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\3.jhon muere\HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3" 1
+      >
+    >
+  >
+  <TRACK {90735DC9-C650-4A0D-BF36-21ACA4896EB6}
+    NAME parte4
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 68 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {90735DC9-C650-4A0D-BF36-21ACA4896EB6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.32 0
+    >
+    <ITEM
+      POSITION 27.05756874637847
+      SNAPOFFS 0
+      LENGTH 23.916
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.037599 0 1 0 0
+      FADEOUT 1 0.446252 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BCD6B9FA-DC0D-46A1-95E1-53CA2636C6B4}
+      IID 348
+      NAME parte4.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64ED56DD-623E-48CA-ADA7-06C3961F0D55}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\parte4.wmv"
+      >
+    >
+  >
+  <TRACK {24B75A49-DE0F-4FF4-BD20-CA76A792323A}
+    NAME "Ambiente de duelo de accion"
+    PEAKCOL 33488896
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 68 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {24B75A49-DE0F-4FF4-BD20-CA76A792323A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.65 0
+    >
+    <ITEM
+      POSITION 27.05053300892906
+      SNAPOFFS 0
+      LENGTH 23.98383967061712
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.209577 0 1 0 0
+      FADEOUT 1 0.452075 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {79F9368A-F262-480E-96F5-043DF4FD28A6}
+      IID 350
+      NAME jolie_police_-_afterwar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.53946122815043
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03805FDE-1BDE-47A5-8369-B95148DB712D}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\2.jhon nota un sonido en el callejon\jolie_police_-_afterwar.mp3" 1
       >
     >
   >
