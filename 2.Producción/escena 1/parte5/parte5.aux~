@@ -1,0 +1,10 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="parte5" ID="1">
+ <Element Name="Drawing" ID="1" Folder="Drawing"/>
+ <Element Name="el_mero_callejon" ID="3" Folder="el_mero_callejon">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="carta" ID="144" Folder="carta">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>

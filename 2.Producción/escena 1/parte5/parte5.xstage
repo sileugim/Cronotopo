@@ -27,11 +27,11 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="09960f9b1892248d" nbframes="44" startFrame="1" stopFrame="44">
+  <scene name="Top" id="09960f9b1892248d" nbframes="574" startFrame="1" stopFrame="574">
    <columns>
     <column type="0" name="Drawing" displayOrder="0" width="100" anonymous="true" id="1"/>
     <column type="0" name="ATV-09960F9B18922E87" displayOrder="0" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1-500" val="1" id="3"/>
+     <elementSeq exposures="1-574" val="1" id="3"/>
     </column>
     <column type="3" name="ATV-09960F9B18922FB0" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -84,7 +84,7 @@
      </points>
     </column>
     <column type="0" name="ATV-09964C0C1FC03100" displayOrder="0" width="100" anonymous="true" id="144">
-     <elementSeq exposures="1-44" val="1" id="144"/>
+     <elementSeq exposures="1-574" val="1" id="144"/>
     </column>
     <column type="2" name="ATV-09964C0C1FC03452" anonymous="true" displayOrder="0">
      <infoX width="100"/>
@@ -96,8 +96,9 @@
        <pt val="0.26315725908503579,-1.6168381998184422,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-09964C0C1FC03453" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-09964C5A43A00C1D" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
       </points>
@@ -105,24 +106,28 @@
     </column>
     <column type="3" name="ATV-09964C0C1FC03454" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-09964C0C1FC03455" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-09964C0C1FC03456" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-09964C0C1FC03457" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
@@ -138,8 +143,9 @@
        <pt val="0,0,0" lockedInTime="44"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-09964C0C1FC0402C" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-09964C5A43A00C1F" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
        <pt constSeg="false" x="44" yLocal="1" y="1"/>
@@ -148,27 +154,36 @@
     </column>
     <column type="3" name="ATV-09964C0C1FC0402D" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,44" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-09964C0C1FC0402E" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,44" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-09964C0C1FC0402F" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,44" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-09964C0C1FC04030" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,44" yLocal="0" y="0"/>
      </points>
+    </column>
+    <column type="1" name="Linea4" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="1" stopFrame="982" name="Linea4.wav" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="3.5192708969116211" clippingTimeStop="40.915012359619141">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
     </column>
    </columns>
    <options>
@@ -179,7 +194,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,7" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,6" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -198,13 +213,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,8" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,7" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,9" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,8" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -231,7 +246,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="124,-120,6" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="124,-120,5" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -342,7 +357,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="el_mero_callejon" pos="169,-14,3" publishUnderTab="el_mero_callejon">
+     <module type="READ" name="el_mero_callejon" pos="169,-14,2" publishUnderTab="el_mero_callejon">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -453,7 +468,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="carta" pos="-55,-72,5" publishUnderTab="carta">
+     <module type="READ" name="carta" pos="-55,-72,4" publishUnderTab="carta">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -564,7 +579,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="carta-P" pos="-55,-172,4" publishUnderTab="carta-P">
+     <module type="PEG" name="carta-P" pos="-55,-172,3" publishUnderTab="carta-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
