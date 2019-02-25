@@ -33,4 +33,18 @@
  <element id="31" elementName="Boca" elementFolder="Boca" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="32" elementName="BrazoIz" elementFolder="BrazoIz.32" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="33" elementName="AnteBrazoIz" elementFolder="AnteBrazoIz.33" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="34" elementName="Plicias_y_ladrones" elementFolder="Plicias_y_ladrones" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="35" elementName="Cabeza_LAT" elementFolder="Cabeza_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="36" elementName="Pupilas_LAT" elementFolder="Pupilas_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="37" elementName="Torso_LAT" elementFolder="Torso_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="38" elementName="Brazo_DELAT" elementFolder="Brazo_DELAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="39" elementName="Mano_IZLAT" elementFolder="Mano_IZLAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="40" elementName="Brazo_IZLAT" elementFolder="Brazo_IZLAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="41" elementName="Mano_DELAT" elementFolder="Mano_DELAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="42" elementName="Ojos_LAT" elementFolder="Ojos_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="43" elementName="Cuello_LAT" elementFolder="Cuello_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="44" elementName="Cejas_LAT" elementFolder="Cejas_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="45" elementName="Boca_LAT" elementFolder="Boca_LAT" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="46" elementName="Cabeza_LAT" elementFolder="Cabeza_LAT.46" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="47" elementName="Cabeza_LAT" elementFolder="Cabeza_LAT.47" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
