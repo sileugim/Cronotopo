@@ -146,8 +146,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f5263cca713bf44ea28baad5c53b5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: 3
-  regulador: 3
+  tiempo: 8
+  regulador: 8
   video: {fileID: 1006962539}
 --- !u!82 &8125487
 AudioSource:
@@ -1384,8 +1384,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f5263cca713bf44ea28baad5c53b5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: 3
-  regulador: 3
+  tiempo: 34
+  regulador: 34
   video: {fileID: 1235718426}
 --- !u!1 &1212455937
 GameObject:
@@ -1421,8 +1421,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f5263cca713bf44ea28baad5c53b5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: 3
-  regulador: 3
+  tiempo: 5
+  regulador: 5
   video: {fileID: 1006962539}
 --- !u!82 &1212455939
 AudioSource:
