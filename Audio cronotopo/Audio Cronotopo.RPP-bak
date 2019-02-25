@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551112666
+<REAPER_PROJECT 0.1 "5.97/x64" 1551118661
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 50.72053021187361 0 0
+  CURSOR 3.87391913896281
+  ZOOM 71.39184754376093 0 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 1\1.1_9-12+2-9.avi"
+  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 2\2.4_3-5.avi"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 2 0 0 16 1000
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 5.56085902884992 0
-  SELECTION2 5.56085902884992 0
+  SELECTION 4.67840532905762 0
+  SELECTION2 4.67840532905762 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -1327,11 +1327,11 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 5.51843198022862
+      LENGTH 20.08203429407105
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
       MUTE 0
       SEL 0
       IGUID {D0DE696C-05ED-446A-8DA7-CFCBB2978542}
@@ -2822,15 +2822,15 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT -0.0005 0.39 0
-      PT 0 0.40138821 0 0 1
-      PT 0.000001 0.40138821 0 0 1
-      PT 5.15900843 0.40138821 0 0 1
-      PT 5.38210069 1.04978454 0 0 1
-      PT 6.40888046 1.04978454 0 0 1
-      PT 6.79562324 0.68956435 0 0 1
-      PT 9.83431656 0.68956435 0 0 1
-      PT 10.27630832 1.09095256 0 0 1
-      PT 37.6964861 1.09095256 0 0 1
+      PT 0 0.39 0 0 1
+      PT 0.000001 0.39 0 0 1
+      PT 5.15900843 0.39 0 0 1
+      PT 5.38210069 1.02 0 0 1
+      PT 6.40888046 1.02 0 0 1
+      PT 6.79562324 0.67 0 0 1
+      PT 9.83431656 0.67 0 0 1
+      PT 10.27630832 1.06 0 0 1
+      PT 37.6964861 1.06 0 0 1
       PT 37.6969871 1.06 0
     >
     <PANENV2
@@ -3135,9 +3135,9 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT -0.0005 0.4 0
-      PT 0 0.41168021 0 0 1
-      PT 0.000001 0.41168021 0 0 1
-      PT 37.6964861 0.41168021 0 0 1
+      PT 0 0.4 0 0 1
+      PT 0.000001 0.4 0 0 1
+      PT 37.6964861 0.4 0 0 1
       PT 37.6969871 0.4 0
     >
     <ITEM
@@ -3345,6 +3345,289 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+  >
+  <TRACK {9FF52772-AA49-4519-845C-2A6D1C9B8C87}
+    NAME 2.5_1-2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9FF52772-AA49-4519-845C-2A6D1C9B8C87}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.58 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {894B7712-370A-4CEC-A0F6-1311FF583296}
+      IID 327
+      NAME 2.5_1-2.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C14D5507-A974-45BE-89CA-A4755D2CE2D1}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\2.5_1-2.wmv"
+      >
+    >
+  >
+  <TRACK {8E4E0519-AE77-461C-B22D-EAE0B034B984}
+    NAME "Ambiente de duelo de accion"
+    PEAKCOL 33488896
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8E4E0519-AE77-461C-B22D-EAE0B034B984}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.68233955 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.59380055820976
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CBEC13F1-849E-4B04-8111-E9F24ECFC102}
+      IID 329
+      NAME jolie_police_-_afterwar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.80748936073418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C09A6A2-A88D-4BB6-A726-FA9F49DF89BB}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\2.jhon nota un sonido en el callejon\jolie_police_-_afterwar.mp3" 1
+      >
+    >
+  >
+  <TRACK {2E9B8D7E-854C-4089-AD65-8F5DA221B4D5}
+    NAME Corrida
+    PEAKCOL 25231104
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2E9B8D7E-854C-4089-AD65-8F5DA221B4D5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.33 0
+    >
+    <FXCHAIN
+      WNDRECT 290 47 716 200
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS sstillwell/hpflpf ""
+        0.000000 4000.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69EDEC15-FD80-40C2-8476-9B4BFE3D7C38}
+      WAK 0
+    >
+    <ITEM
+      POSITION 3.38207338440863
+      SNAPOFFS 0
+      LENGTH 1.21172717380113
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.256306 0 1 0 0
+      FADEOUT 1 0.216875 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D5900881-A76D-4E84-84A9-07AA383C4A39}
+      IID 22
+      NAME 371377__goldkelchen__children-playing.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E919178-A103-4F0A-81D2-A35209D5A2D6}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\risas niños\371377__goldkelchen__children-playing.mp3" 1
+      >
+    >
+  >
+  <TRACK {CAA2DE3F-D505-4EC7-9248-6F18CA677EB3}
+    NAME 2.4_3-5
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CAA2DE3F-D505-4EC7-9248-6F18CA677EB3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.75 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {12CF5C66-AFEF-48C0-AFD1-3000AA8EEA41}
+      IID 324
+      NAME 2.4_3-5.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {381D388B-F4CC-423D-AE7F-D3C1D05697EA}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\2.4_3-5.wmv"
+      >
+    >
+  >
+  <TRACK {749261CE-D2DF-4C1D-9476-FFC38E0E2415}
+    NAME "Musica nostalgica 2"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {749261CE-D2DF-4C1D-9476-FFC38E0E2415}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.58 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.30170742745272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.68665 0 1 0 0
+      FADEOUT 1 1.500494 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A54BE5FB-D3CB-4831-9909-2314F9B83C77}
+      IID 32
+      NAME "EXO - 너의 세상으로 (Angel).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC8116DA-EA71-4C11-AAE8-EB40B1B776ED}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\1.orfnato-hermanos juntos\EXO - 너의 세상으로 (Angel).mp3" 1
+      >
+    >
   >
   <TRACK {2A0AF85E-37E5-4CEC-9634-F0695030FFF4}
     NAME "2.4_7 video def1"
@@ -4015,7 +4298,7 @@
         IHByb2dyYW1uYW1lPSJTaG9ydCBQbGF0ZSIgZHJ5PSIwLjUiIHdldD0iMC40NzgwMDAwMTUiIHJvb21zaXplPSIwLjEwNDAwMDAwMiIgcHJlZGVsYXk9IjAuMTM2MDAw
         MDA3IiBsb3dzaGVsZmZyZXF1ZW5jeT0iMC41IiBoaWdoc2hlbGZmcmVxdWVuY3k9IjAuNSIgcGVha2ZyZXF1ZW5jeT0iMC41MzYwMDAwMTMiIGxvd3NoZWxmZ2Fpbj0i
         MC40OTIwMDAwMTQiIGhpZ2hzaGVsZmdhaW49IjAuMzU2MDAwMDA2IiBwZWFrZ2Fpbj0iMC4xNzIwMDAwMDYiIHN0ZXJlb3dpZHRoPSIxIiByZWFsc3RlcmVvbW9kZT0i
-        MSIvPjwvcHJvZ3JhbXM+PG1pZGltYXAvPjwvdGFsPgDg
+        MSIvPjwvcHJvZ3JhbXM+PG1pZGltYXAvPjwvdGFsPgAA
         AEJpZyBXZXQgUGxhdGUgKG5vIEVRKQAQAAAA
       >
       PRESETNAME "Big Wet Plate (no EQ)"
@@ -4869,15 +5152,19 @@
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
-      PT 0 0.53 0
-      PT 5.20419162 0.53 0
-      PT 5.44438508 0.28 0
+      PT -0.0005 0.53 0
+      PT 0 0.54547628 0 0 1
+      PT 0.000001 0.54547628 0 0 1
+      PT 5.20419162 0.54547628 0 0 1
+      PT 5.44438508 0.28817615 0 0 1
+      PT 5.56085803 0.28817615 0 0 1
+      PT 5.56135903 0.28 0
       PT 12.53009212 0.28 0
       PT 12.9704468 0.62 0
       PT 23.21870106 0.62 0
       PT 23.77915247 0.26 0
       PT 29.82402119 0.26 0
-      PT 30.30440811 0.53 0 0 1
+      PT 30.30440811 0.53 0
     >
     <PANENV2
       ACT 1 -1
@@ -4898,7 +5185,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 5.51843198022862
+      LENGTH 31.25006673391481
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -5032,13 +5319,13 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -5078,7 +5365,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -5101,6 +5388,10 @@
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
+      PT -0.0005 0.17 0
+      PT 0.000001 0.17496409 0 0 1
+      PT 5.56085803 0.17496409 0 0 1
+      PT 5.56135903 0.17 0
       PT 7.55801172 0.17 0
       PT 7.55851172 0.43 0
     >
@@ -5133,7 +5424,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -5171,7 +5462,7 @@
       FADEIN 1 0.490252 0 1 0 0
       FADEOUT 1 0.986196 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {A09B8BAE-D4E1-4C88-96C1-7F2DFE1E7FD9}
       IID 321
       NAME "HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3"
@@ -5191,7 +5482,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -5253,7 +5544,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
