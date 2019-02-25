@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551075206
+<REAPER_PROJECT 0.1 "5.97/x64" 1551078057
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 71.0452691125323 0 0
-  VZOOMEX 5
+  ZOOM 25.47655226259526 0 0
+  VZOOMEX 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 5\5.6_1-2.avi"
+  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 6\6.6_7.avi"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 16 1000
@@ -2205,7 +2205,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -2223,19 +2223,273 @@
     MIDIOUT -1
     MAINSEND 1 0
   >
+  <TRACK {90A445A9-A0F6-4FA4-8DE8-21BCABA8E995}
+    NAME 5.6_3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {90A445A9-A0F6-4FA4-8DE8-21BCABA8E995}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F40621AD-C135-4C80-B2DA-079BB9AB8F8E}
+      IID 99
+      NAME 5.6_3.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3AE01DD-8BC1-4C75-8294-EBA2CA2EA83D}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\5.6_3.wmv"
+      >
+    >
+  >
+  <TRACK {91D6E89D-C3C1-4F2E-A9C5-CE483EEDC995}
+    NAME Musica
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {91D6E89D-C3C1-4F2E-A9C5-CE483EEDC995}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.836596 0 1 0 0
+      FADEOUT 1 0.927729 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1649F75C-0F44-41CD-8D7A-0F2FB151D30C}
+      IID 100
+      NAME jolie_police_-_afterwar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.97955259873783
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCFFD2C4-9B2E-4F63-8B2E-C61D582AA251}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\2.jhon nota un sonido en el callejon\jolie_police_-_afterwar.mp3" 1
+      >
+    >
+  >
+  <TRACK {39EC6197-9EBB-4A1D-8271-C7C3C5C0F936}
+    NAME "Grito mujer"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {39EC6197-9EBB-4A1D-8271-C7C3C5C0F936}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.28 0
+    >
+    <ITEM
+      POSITION 4.1829798070935
+      SNAPOFFS 0
+      LENGTH 2.469125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.948142 0 1 0 0
+      FADEOUT 1 0.585617 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {415B4722-A97B-4B4F-9CAC-5B08FA9ACFED}
+      IID 10
+      NAME 235592__tcrocker68__girl-scream.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD63DCE3-C518-4BD2-A748-7F02AF9CA738}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\chica gritando\235592__tcrocker68__girl-scream.wav"
+      >
+    >
+  >
+  <TRACK {B7E051D6-8909-4C70-B76F-937B8F09FC8B}
+    NAME billetes
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B7E051D6-8909-4C70-B76F-937B8F09FC8B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 6.91585995 0.16 0
+    >
+    <ITEM
+      POSITION 6.91585994772792
+      SNAPOFFS 0
+      LENGTH 0.72172335600907
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0132155F-4A9F-4611-AB47-ADCE6618B65F}
+      IID 8
+      NAME 71512__philberts__trash-fall.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {806AB115-D630-4047-89F3-884874BCFED6}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\bote de basura cae\71512__philberts__trash-fall.wav"
+      >
+    >
+  >
+  <TRACK {08705B50-885C-4423-9D7C-B340E374D9D8}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {08705B50-885C-4423-9D7C-B340E374D9D8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.61 0
+    >
+    <ITEM
+      POSITION 2.64922054449255
+      SNAPOFFS 0
+      LENGTH 2.37035522401966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E17DA70D-18CE-4C1D-90E5-E9D86308C078}
+      IID 12
+      NAME "393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E1D0DAA-69F2-44E2-AA61-74F22F9CB8AC}
+      <SOURCE WAVE
+        FILE "Banda Sonora\banda sonora-propuestas\0.1 .sonidos\Dan carga la pistola que apunta a Tom\393732__jackmurrayofficial__ar15-m4-gun-hardware-magazine-movement-sounds (1).wav"
+      >
+    >
+  >
   <TRACK {9161558C-96E5-4E58-AC8B-FA8F26F25B5A}
     NAME Big
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2300,7 +2554,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -2370,7 +2624,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -2424,7 +2678,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -2478,7 +2732,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -2551,6 +2805,78 @@
       GUID {C5A7BD6A-6FF3-4E17-B48E-703A794B34A3}
       <SOURCE WAVE
         FILE "Banda Sonora\Pasos.wav"
+      >
+    >
+  >
+  <TRACK {106F4245-627A-4DA6-992B-9FBFA28C1CB1}
+    NAME "Dan y big"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {106F4245-627A-4DA6-992B-9FBFA28C1CB1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.39 0
+      PT 5.15900843 0.39 0
+      PT 5.38210069 1.02 0
+      PT 6.40888046 1.02 0
+      PT 6.79562324 0.67 0
+      PT 9.83431656 0.67 0
+      PT 10.27630832 1.06 0
+    >
+    <PANENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.44 0
+      PT 5.23603633 0.47 0 0 1
+      PT 5.41364951 0.11 0
+      PT 6.62852361 0.11 0
+      PT 6.90993203 0.46 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 12.992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.589649 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {429ADA67-DF9D-4CE0-9B70-CDFE12DD19EE}
+      IID 76
+      NAME 5.6_4-6.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16F7BEE9-BA1C-41CF-AEA1-8ED857AB6F64}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\5.6_4-6.wmv"
       >
     >
   >
@@ -2662,78 +2988,6 @@
       >
     >
   >
-  <TRACK {106F4245-627A-4DA6-992B-9FBFA28C1CB1}
-    NAME "Dan y big"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {106F4245-627A-4DA6-992B-9FBFA28C1CB1}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <VOLENV2
-      ACT 1 -1
-      VIS 1 1 1
-      LANEHEIGHT 0 0
-      ARM 1
-      DEFSHAPE 0 -1 -1
-      PT 0 0.39 0
-      PT 5.15900843 0.39 0
-      PT 5.38210069 1.02 0
-      PT 6.40888046 1.02 0
-      PT 6.79562324 0.67 0
-      PT 9.83431656 0.67 0
-      PT 10.27630832 1.06 0
-    >
-    <PANENV2
-      ACT 1 -1
-      VIS 1 1 1
-      LANEHEIGHT 0 0
-      ARM 1
-      DEFSHAPE 0 -1 -1
-      PT 0 0.44 0
-      PT 5.23603633 0.47 0 0 1
-      PT 5.41364951 0.11 0
-      PT 6.62852361 0.11 0
-      PT 6.90993203 0.46 0
-    >
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 12.992
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.589649 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {429ADA67-DF9D-4CE0-9B70-CDFE12DD19EE}
-      IID 76
-      NAME 5.6_4-6.wmv
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {16F7BEE9-BA1C-41CF-AEA1-8ED857AB6F64}
-      <SOURCE VIDEO
-        FILE "Banda Sonora\5.6_4-6.wmv"
-      >
-    >
-  >
   <TRACK {9FF7ECFB-1241-445D-A224-57A424144DF6}
     NAME "Ambiente noche con perros"
     PEAKCOL 16576
@@ -2834,6 +3088,243 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {B53DCD64-B929-451E-8E84-15C98EF4FB51}
+      <SOURCE MP3
+        FILE "Banda Sonora\Grillos de noche.mp3" 1
+      >
+    >
+  >
+  <TRACK {FC9CED50-21D5-46A3-BC5E-E7F74246E84E}
+    NAME "Escena 6"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 104 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FC9CED50-21D5-46A3-BC5E-E7F74246E84E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {6A0F0B62-C19B-4AAE-BDB2-056F9DDCF494}
+    NAME 6.6_7
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 98 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6A0F0B62-C19B-4AAE-BDB2-056F9DDCF494}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.4 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.316993 0 1 0 0
+      FADEOUT 1 0.42352 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B8C13164-D094-4DCF-A5A9-39EFA774E13C}
+      IID 115
+      NAME 6.6_7.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E138CCB2-F3FD-4C42-8A3D-946A83B4B813}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\6.6_7.wmv"
+      >
+    >
+  >
+  <TRACK {33E63C56-9DE5-41C9-A305-BF8444261C42}
+    NAME "Musica nostalgica-triste-peligrosa"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {33E63C56-9DE5-41C9-A305-BF8444261C42}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.23 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.14072090348229
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.454157 0 1 0 0
+      FADEOUT 1 0.686564 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5F215713-1E91-4AA7-9F06-AC5E1AEF5764}
+      IID 34
+      NAME ________________-_Helheim.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3D3B671-5663-42F3-9436-6A202FC07333}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\4.Dan lee la carta\________________-_Helheim.mp3" 1
+      >
+    >
+  >
+  <TRACK {3ADCD129-FD00-413E-A927-DCC844ACD6A8}
+    NAME "Ambiente noche con perros"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3ADCD129-FD00-413E-A927-DCC844ACD6A8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.14072090348229
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.694772 0 1 0 0
+      FADEOUT 1 0.529557 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {68830832-0455-45B5-954C-054C8EC16D2F}
+      IID 81
+      NAME "Ambiente noche con perros.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.24318189802007
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9E5F774-6471-4E1A-84F1-1E954127FD29}
+      <SOURCE WAVE
+        FILE "Banda Sonora\Ambiente noche con perros.wav"
+      >
+    >
+  >
+  <TRACK {EF71F8C7-6900-4960-A7FF-26129E88A840}
+    NAME "Grillos de noche"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EF71F8C7-6900-4960-A7FF-26129E88A840}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 716 200
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS sstillwell/hpflpf ""
+        760.000000 1000.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B1134A46-5896-47CA-81B2-85D3F4F7C1D9}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0.01000000000931
+      SNAPOFFS 0
+      LENGTH 4.13072090347298
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.992913 0 1 0 0
+      FADEOUT 1 0.80432 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {321AB429-5E72-441D-94D7-14E1F0BB0082}
+      IID 83
+      NAME "Grillos de noche.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B02D2877-EAA9-4631-9464-492B0D50EF70}
       <SOURCE MP3
         FILE "Banda Sonora\Grillos de noche.mp3" 1
       >
