@@ -9,3 +9,7 @@ Solid    Naranja_Tom                0x099590943468412f 255 155   6 255
 Solid    Verde_Tom                  0x0995909434684988   1 138 127 255
 Solid    "Azul<Oscuro_Tom"          0x099590943469fa46  47  39  48 255
 Solid    Rojo_Tom                   0x09959094346666f6 255   0   0 255
+Solid    Rojo_jhon                  0x09959094346665e8   0 255 255 255
+Solid    AzulMedio_Tom              0x0995dfae86d25058  38  39  59 255
+Solid    Vede_jefe                  0x09965ab94f302821 108 135  75 255
+Solid    Gris_jefe                  0x09965ab94f30323f  95  95  95 255
