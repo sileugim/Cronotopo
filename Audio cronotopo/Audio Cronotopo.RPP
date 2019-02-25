@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551088361
+<REAPER_PROJECT 0.1 "5.97/x64" 1551089555
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 1.83318487765771
-  ZOOM 138.01117556853379 0 0
+  CURSOR 4.53387993862813
+  ZOOM 69.66017842343793 0 0
   VZOOMEX 0
   USE_REC_CFG 0
   RECMODE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 10\10.7_2-4.avi"
+  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 9\9.6_10.avi"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 2 0 0 16 1000
@@ -3673,7 +3673,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 73 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3753,7 +3753,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 83 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3807,7 +3807,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 76 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3863,7 +3863,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 72 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3919,7 +3919,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 64 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4094,7 +4094,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -4118,7 +4118,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -4127,7 +4127,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 27 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4164,7 +4164,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -4173,7 +4173,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 66 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4218,16 +4218,16 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 68 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4252,7 +4252,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.350551 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {BF17BE22-6C7C-4171-B4C7-F2B0A33297BE}
       IID 169
       NAME ebunny_-_Fatal_Choice.mp3
@@ -4272,7 +4272,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 2 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -4281,7 +4281,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 80 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4317,6 +4317,192 @@
       GUID {5CCBEDD6-D8E4-4DED-866B-2BCA5A2D2DEA}
       <SOURCE VIDEO
         FILE "Banda Sonora\7.6_10.wmv"
+      >
+    >
+  >
+  <TRACK {06398F66-72B2-4F09-9927-DA23801E7B9B}
+    NAME "Escena 9"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {06398F66-72B2-4F09-9927-DA23801E7B9B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {97EA1E87-29F0-4797-A0CE-2A2DE4AD05DA}
+    NAME 9.6_10
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {97EA1E87-29F0-4797-A0CE-2A2DE4AD05DA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 24 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.38 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.239
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.112187 0 1 0 0
+      FADEOUT 1 0.150295 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {546916E7-3C54-4618-8F21-EF498C7B87B1}
+      IID 170
+      NAME 9.6_10.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58661DD4-DEF9-4C4D-BD3D-FCE8C698F1AA}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\9.6_10.wmv"
+      >
+    >
+  >
+  <TRACK {B55FDDFA-E970-4442-96D2-8D783BCE335C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 60 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B55FDDFA-E970-4442-96D2-8D783BCE335C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0.10198835 0.15438008 0
+    >
+    <ITEM
+      POSITION 3.844
+      SNAPOFFS 0
+      LENGTH 3.41983439508606
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.896983 0 1 0 0
+      FADEOUT 1 0.789547 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5068B086-BCFF-49C4-A4CC-32B841C13629}
+      IID 179
+      NAME Romu_-_Hoy_eres_el_creador_del_mundo.mp3
+      VOLPAN 0.634146 0 1 -1
+      SOFFS 127.52127098390903
+      PLAYRATE 0.74422001413848 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92EB469E-2A37-4566-B2B3-9D4BAD86796F}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\6.tom avisa a la policia\Romu_-_Hoy_eres_el_creador_del_mundo.mp3" 1
+      >
+    >
+  >
+  <TRACK {DCAC9A87-CEDF-4DC1-90D3-0EEF5ADE3B65}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 67 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DCAC9A87-CEDF-4DC1-90D3-0EEF5ADE3B65}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1.05 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 5.119382685714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.263945 0 1 0 0
+      FADEOUT 1 1.855437 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3873C26F-63D0-4705-8B78-D0B8F4D70F2F}
+      IID 176
+      NAME "EXO - 너의 세상으로 (Angel).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.2422757009522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF8217EF-B90B-4DA5-9A06-3EF2C1CF9D65}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\1.orfnato-hermanos juntos\EXO - 너의 세상으로 (Angel).mp3" 1
       >
     >
   >
