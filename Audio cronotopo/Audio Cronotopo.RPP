@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.97/x64" 1551078160
+<REAPER_PROJECT 0.1 "5.97/x64" 1551079959
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 25.47655226259526 0 0
-  VZOOMEX 0
+  ZOOM 71.39184754376093 0 0
+  VZOOMEX 3
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,10 +27,10 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 6\6.6_7.avi"
+  RENDER_FILE "C:\Users\santi\Documents\GitHub\Cronotopo\3.PostProduccion\escena 5\5.6_3.avi"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
-  RENDER_RANGE 1 0 0 16 1000
+  RENDER_RANGE 2 0 0 16 1000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 2.94151233264102 0
+  SELECTION2 2.94151233264102 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -1265,7 +1265,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {C3D6D2AC-6D8C-4874-9BC6-5BD27CFD0D21}
       IID 28
       NAME "HAVASI — Prelude Age Of Heroes (Official Concert Video)(128kbps).mp3"
@@ -1311,7 +1311,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {D0DE696C-05ED-446A-8DA7-CFCBB2978542}
       IID 29
       NAME jolie_police_-_afterwar.mp3
@@ -1357,7 +1357,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {C048BF2F-EC14-4AA8-AF5C-BA084657C385}
       IID 30
       NAME "MACRIMA - Kleine Herbstfreuden.mp3"
@@ -1449,7 +1449,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {D1D771B8-172C-4370-9CD5-86AC6001634E}
       IID 32
       NAME "EXO - 너의 세상으로 (Angel).mp3"
@@ -1495,7 +1495,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {3FCD8AC4-4FFA-4835-BFE3-84BF54FE51D8}
       IID 33
       NAME "Jonghyun &amp; CHEN - 하루 (A Day Without You).mp3"
@@ -1633,7 +1633,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {709C6F29-C236-4360-9335-ACDA8B8895EB}
       IID 37
       NAME Schauder_Mangold_-_Memories.mp3
@@ -1679,7 +1679,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {7AB04702-4AC9-4D5A-A2CC-4637D6D2C194}
       IID 38
       NAME Romu_-_Hoy_eres_el_creador_del_mundo.mp3
@@ -1725,7 +1725,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {EF122615-57ED-4556-9225-47A3070D7975}
       IID 40
       NAME The.madpix.project_-_Neverend.mp3
@@ -1955,7 +1955,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {D41700D6-BB7E-47D7-98B2-367E1BCDD584}
       IID 46
       NAME Psicotropicodelia_Music__netlabel__-_PRODUCER_SNAFU_-_Epic_Car_Comercial_Music.mp3
@@ -2001,7 +2001,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {7AFA7655-300E-40C4-AD2B-FF164D0A748B}
       IID 47
       NAME Al_kolica_-_Onirico_mentale.mp3
@@ -2047,7 +2047,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {43098A63-93F2-4177-AB9B-3F790F02B196}
       IID 48
       NAME Nei_Licis_-_Nei_Licis_-_Electric_Field.mp3
@@ -2093,7 +2093,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {C0BF3FDF-847A-46C8-9000-42339F70D204}
       IID 54
       NAME "HAVASI Rise Of The Instruments (feat Tina Guo, Peter Pejtsik).mp3"
@@ -2185,7 +2185,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {746F19EA-A01D-45A2-9766-37AC8DF42161}
       IID 53
       NAME "Havasi - The Storm (Symphonic Version).mp3"
@@ -2235,7 +2235,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2508,8 +2508,8 @@
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729 ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
-        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAH6Lu6GNOI1AAQ5aHOCh
-        3j8AAAAAAAAAQAEBAAAAAQAAAIDUPZqSiLNACLVnErdSzT8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA8CAABhAQAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAH+Lu6GNOI1AAQ5aHOCh
+        3j8AAAAAAAAAQAEBAAAAAQAAAIDUPZqSiLNAAbVnErdSzT8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA8CAABhAQAA
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
@@ -3183,7 +3183,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -3327,6 +3327,276 @@
       GUID {B02D2877-EAA9-4631-9464-492B0D50EF70}
       <SOURCE MP3
         FILE "Banda Sonora\Grillos de noche.mp3" 1
+      >
+    >
+  >
+  <TRACK {2A81E6E5-BF23-4CB0-B3CD-5BB4D96FDDB0}
+    NAME " Escena 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2A81E6E5-BF23-4CB0-B3CD-5BB4D96FDDB0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {2A0AF85E-37E5-4CEC-9634-F0695030FFF4}
+    NAME "2.4_7 video def1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2A0AF85E-37E5-4CEC-9634-F0695030FFF4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.958333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {06A478D8-7767-4C4F-89F6-724D4B2A656B}
+      IID 123
+      NAME "2.4_7 video def1.mov"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB1B311C-F56E-4B28-9571-844AD29DBCDF}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\2.4_7 video def1.mov"
+      >
+    >
+  >
+  <TRACK {F6B92284-9868-4972-A797-40DD69842F55}
+    NAME "Musica nostalgica-feliz"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6B92284-9868-4972-A797-40DD69842F55}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.47 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.95880843509029
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.911355 0 1 0 0
+      FADEOUT 1 1.133044 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1CC96399-B1AA-478A-B944-7AC1755A2B46}
+      IID 33
+      NAME "Jonghyun &amp; CHEN - 하루 (A Day Without You).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DD1A074-A084-4BAF-BBC3-6CA2F77FAE9E}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\1.orfnato-hermanos juntos\Jonghyun &amp; CHEN - 하루 (A Day Without You).mp3" 1
+      >
+    >
+  >
+  <TRACK {D34B7D46-5380-45BC-9BEE-174F39B3A114}
+    NAME "2.4_8 def"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D34B7D46-5380-45BC-9BEE-174F39B3A114}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.583333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {55E54D46-54D1-4811-8985-2A07972A106F}
+      IID 124
+      NAME "2.4_8 def.mov"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E14E2CDF-4901-48CE-A03E-CEA624940FA6}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\2.4_8 def.mov"
+      >
+    >
+  >
+  <TRACK {46062E12-1C1E-4B13-8886-8487B558CC4C}
+    NAME "Electronica bacana"
+    PEAKCOL 16777471
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {46062E12-1C1E-4B13-8886-8487B558CC4C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.29 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 8.583333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 4.644926 0 1 0 0
+      FADEOUT 1 0.644733 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AFB8C88D-9B2E-4F68-97BD-56B524E16689}
+      IID 129
+      NAME Infraction_-_Summer_Upbeat_Pop.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 16.08739413218956
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31497E9B-6442-4615-9FC9-FDDF0B8C86D2}
+      <SOURCE MP3
+        FILE "Banda Sonora\banda sonora-propuestas\7.tom esforzandose\Infraction_-_Summer_Upbeat_Pop.mp3" 1
+      >
+    >
+  >
+  <TRACK {8E659187-70A9-4713-9771-4334947E6F35}
+    NAME 2.4_2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 2 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8E659187-70A9-4713-9771-4334947E6F35}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.901
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C1BEBE93-B1A8-4DC2-A839-D8C742E57EF2}
+      IID 125
+      NAME 2.4_2.wmv
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E190B74-D59A-4578-BDB0-6CB9D20A214A}
+      <SOURCE VIDEO
+        FILE "Banda Sonora\2.4_2.wmv"
       >
     >
   >
